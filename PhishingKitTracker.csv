@@ -1,4 +1,4 @@
-DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDomain,KitName,ThreatActor,KitHash,KitUrl
+DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDomain,KitName,ThreatActor,KitHash,KitUrl,Test
 10/30/2017,https://twitter.com/WifiRumHam/status/925028684716789761,adamandeve10000@gmail.com,gmail,office.php,Office365,newmum.co.nz,authentication.zip,,,
 11/28/2017,https://twitter.com/dave_daves/status/935459029979226112,emailresult1000cc@gmail.com,gmail,ajax_php_file.php,PaypalInfoSec,sucure-login-area-paypal.com-acces-dispute.ga,vuplodbank.zip,,,
 12/4/2017,https://twitter.com/dave_daves/status/937680046906597376,boxresult81@gmail.com,gmail,,ChaseBank,chase.com-secure.account.manpowergroupglobal.org,Chasebank.zip,,,
@@ -983,7 +983,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,jpresult@yandex.com,yandex,,Apple,appleid.apple.com-supportid235237.com,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,otherresult@yandex.com,yandex,,Apple,appleid.apple.com-support.serviceinvoked-accountalertscustom.agency,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,bersamasama@yandex.com,yandex,,Apple,appleid.apple.com.update-billinginformationida.net,,,,
-12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,jakarta.bandung@yandex.com,,Apple,appleids.locked-forgot-accountsz.com,,,,
+12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,jakarta.bandung@yandex.com,,Apple,appleids.locked-forgot-accountsz.com,,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,akun.meler8@gmail.com,gmail,,Apple,appleidtaib.ddns.net,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,kakarotok@yandex.com,yandex,,Apple,applid-applejpnid.3utilities.com,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070698404974600192,resbar2cc@yandex.com,yandex,,Apple,manage-applesupport-verification-account.com,,,,
