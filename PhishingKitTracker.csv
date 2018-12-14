@@ -1,7 +1,7 @@
 DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDomain,KitName,ThreatActor,KitHash,KitUrl
 10/30/2017,https://twitter.com/WifiRumHam/status/925028684716789761,adamandeve10000@gmail.com,gmail,office.php,Office365,newmum.co.nz,authentication.zip,,,
-11/28/2017,https://twitter.com/dave_daves/status/935459029979226112,emailresult1000cc@gmail.com,gmail,ajax_php_file.php,PaypalInfoSec,sucure-login-area-paypal.com-acces-dispute.ga,vuplodbank.zip,,,
-12/4/2017,https://twitter.com/dave_daves/status/937680046906597376,boxresult81@gmail.com,gmail,,ChaseBank,chase.com-secure.account.manpowergroupglobal.org,Chasebank.zip,,,
+11/28/2017,https://twitter.com/dave_daves/status/935459029979226112,emailresult1000cc@gmail.com,gmail,ajax_php_file.php,Paypal,sucure-login-area-paypal.com-acces-dispute.ga,vuplodbank.zip,,,
+12/4/2017,https://twitter.com/dave_daves/status/937680046906597376,boxresult81@gmail.com,gmail,,Chase,chase.com-secure.account.manpowergroupglobal.org,Chasebank.zip,,,
 12/14/2017,https://twitter.com/malware_traffic/status/941323414903644169,tingyangting111@gmail.com,gmail,,DHLUS,linkcomp.com.br,,,,
 12/14/2017,https://twitter.com/malware_traffic/status/941323414903644169,johnbeng95@gmail.com,gmail,,DHLUS,linkcomp.com.br,,,,
 12/22/2017,https://twitter.com/malware_traffic/status/944245891711586304,sharoncute48@gmail.com,gmail,,Office365,dhiprograme.tk,Office365.zip,,,
@@ -112,7 +112,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 1/17/2018,https://twitter.com/neonprimetime/status/953723052440813569,fisayowire@@gmail.com,gmail,,,,,,,
 1/17/2018,https://twitter.com/neonprimetime/status/953723052440813569,fisayowire@gmail.com,gmail,,,,,,,
 1/17/2018,https://twitter.com/neonprimetime/status/953723052440813569,jessicalove364@yahoo.com,yahoo,,,,,,,
-1/23/2018,https://twitter.com/n0p1shing/status/955853608318365698,marvinrwilso@gmail.com,gmail,,ChaseBank,www.ybytymi.gov.py,,,,
+1/23/2018,https://twitter.com/n0p1shing/status/955853608318365698,marvinrwilso@gmail.com,gmail,,Chase,www.ybytymi.gov.py,,,,
 1/23/2018,https://twitter.com/n0p1shing/status/955860281770553344,sqlinjection9@gmail.com,gmail,,DropBox,www.escuelavaloresdivinos.com,,,,
 1/30/2018,https://twitter.com/neonprimetime/status/958466651506212864,activamarine@126.com,126,,,,,,,
 1/30/2018,https://twitter.com/neonprimetime/status/958466651506212864,ovan2010@aol.com,aol,,,,,,,
@@ -168,7 +168,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 2/4/2018,https://twitter.com/neonprimetime/status/960388531242897408,aisudam@mail.com,mail.com,Secinfo.php,,,,,,
 2/4/2018,https://twitter.com/neonprimetime/status/960388531242897408,fowoshola@postino.net,postino,ii.php,,,,,,
 2/4/2018,https://twitter.com/neonprimetime/status/960388531242897408,ovan2010@yopmail.com,yopmail,nxt.php,,,,,,
-2/6/2018,https://twitter.com/malware_traffic/status/960885922874183681,ahmedbenhamida290@gmail.com,gmail,,PaypalInfoSec,mypapyalservice.info.support.mlaitbd.com,Myaccount.zip,Shadow Z118,,
+2/6/2018,https://twitter.com/malware_traffic/status/960885922874183681,ahmedbenhamida290@gmail.com,gmail,,Paypal,mypapyalservice.info.support.mlaitbd.com,Myaccount.zip,Shadow Z118,,
 2/24/2018,https://twitter.com/FewAtoms/status/967395367515017216,goodgod950@gmail.com,gmail,,,itel.pt,,,,
 2/24/2018,https://twitter.com/FewAtoms/status/967395367515017216,afonsojide007@gmail.com,gmail,,,itel.pt,,,,
 2/24/2018,https://twitter.com/FewAtoms/status/967395367515017216,juve4n@gmail.com,gmail,,,itel.pt,,,,
@@ -228,8 +228,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 4/17/2018,https://twitter.com/PhishingAi/status/986240791818326016,wirebox1oz@gmail.com,gmail,AA1.php,OneDrive,dewsdueshil.in.net,ZZmoh2.zip,,,
 4/19/2018,https://twitter.com/ps66uk/status/986907477311672320,boltlogs111@gmail.com,gmail,,LinkedIn,livingthebalancedlife.com,linkedIn-1 (2).zip,,,
 4/19/2018,https://pastebin.com/raw/MasmSAR9,atunrawire@gmail.com,gmail,,DropBox,hunt-coin.com,dropbox.zip,,,http://hunt-coin.com/drop/dropbox.zip
-4/20/2018,https://twitter.com/PhishingAi/status/987371663661654016,x3dbase@gmail.com,gmail,,Microsoft,www.rmt.undip.ac.id,Hot-Latest.zip,Anonymous Cyber Team,,
-4/28/2018,https://twitter.com/ViriBack/status/990270826674053121,jackthomas398@gmail.com,gmail,,Microsoft,sinfastener.com,HOTMAILverify.zip,,,
+4/20/2018,https://twitter.com/PhishingAi/status/987371663661654016,x3dbase@gmail.com,gmail,,Hotmail,www.rmt.undip.ac.id,Hot-Latest.zip,Anonymous Cyber Team,,
+4/28/2018,https://twitter.com/ViriBack/status/990270826674053121,jackthomas398@gmail.com,gmail,,Hotmail,sinfastener.com,HOTMAILverify.zip,,,
 5/1/2018,https://twitter.com/PhishingAi/status/991381162663776256,resultbox14@gmail.com,gmail,base.php,btcw1,reaurobz.tk,bitcoin.zip,,,http://reaurobz.tk/wallets/bitcoin.zip
 5/1/2018,https://twitter.com/PhishingAi/status/991381162663776256,mattajones2017.jones@yandex.com,yandex,base.php,btcw1,reaurobz.tk,bitcoin.zip,,,http://reaurobz.tk/wallets/bitcoin.zip
 5/2/2018,https://twitter.com/phishingai/status/991678169517211649?s=21,jan.ddaley@gmail.com,gmail,,GoogleDrive,gossipservice.xyz,,,,
@@ -266,7 +266,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 7/23/2018,https://twitter.com/nullcookies/status/1021586396967051265,dddresult@gmail.com,gmail,,Mimecast,touchmeup.operand.com,,,,
 7/24/2018,https://twitter.com/dave_daves/status/1021729264532635648,michaelnlisa4sure@gmail.com,gmail,,BOA,bofamerica-login-index-com.gq,bnd.zip,Dr.Don,,
 7/24/2018,https://twitter.com/dave_daves/status/1021729264532635648,sesurityas@yandex.com,yandex,,BOA,bofamerica-login-index-com.gq,bnd.zip,Dr.Don,,
-8/1/2018,https://twitter.com/PhishingAi/status/1024738507225526272,evansjohnny40@gmail.com,gmail,result.php,ComcastCares,login.comcast.net.support.rooseveltpark.co.za,x2.zip,Modsrule,,http://login.comcast.net.support.rooseveltpark.co.za/x2.zip
+8/1/2018,https://twitter.com/PhishingAi/status/1024738507225526272,evansjohnny40@gmail.com,gmail,result.php,Comcast,login.comcast.net.support.rooseveltpark.co.za,x2.zip,Modsrule,,http://login.comcast.net.support.rooseveltpark.co.za/x2.zip
 8/3/2018,https://twitter.com/dms1899/status/1025298743548100608?s=21,resultsze@gmail.com,gmail,,Bred_BP,to-pettey-to.gq,,,,
 8/6/2018,https://twitter.com/PhishingAi/status/1026286635879522304,herren.ruth@gmail.com,gmail,next2.php,Microsoft,www.secure-officequotaupdate-emicrosoftonline.shoppersfact.com,quotaview.zip,nJoy,,
 8/6/2018,https://twitter.com/phishingai/status/1026462447207677953?s=21,citijuug@protonmail.com,protonmail,,HMRCgovuk,www.hmrc-gov-uk.online,,,,
@@ -397,7 +397,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 9/11/2018,@TheQuickRedFoxx,xoftsagrin@yandex.com,yandex,,,doucan.gq,cd.zip,,fd297a939fe5b7930f60fae724ad47a6115d4ccf8dd52019023f0d73638f443b,http://doucan.gq/cd.zip
 9/11/2018,@TheQuickRedFoxx,dipltoney@gmail.com,gmail,,OneDrive,bittia.ga,Onedrivefile.zip,,0dc960d7de42180f57ea7f4f83f7ee41105fb8ed290a28b2eee3b8a833906ee5,http://bittia.ga/Onedrivefile.zip
 9/11/2018,@TheQuickRedFoxx,patrickpeterson101@gmail.com,gmail,,,dielop.ga,companyfile.zip,,84578c6b5853acdef34f086903b13d81869d2b3b427e629cbe96c51ff896d1af,http://dielop.ga/Dropbox/companyfile.zip
-9/11/2018,@TheQuickRedFoxx,fisaot@mail.ru,mail,,,pyonal.cf,nwregions.zip,,8a6c2023941fbb72a0344f46f2f37da25106b67d0bd680653d4dc07689079671,http://pyonal.cf/nwregions.zip
+9/11/2018,@TheQuickRedFoxx,fisaot@mail.ru,mail.ru,,,pyonal.cf,nwregions.zip,,8a6c2023941fbb72a0344f46f2f37da25106b67d0bd680653d4dc07689079671,http://pyonal.cf/nwregions.zip
 9/11/2018,@TheQuickRedFoxx,rc50005000@zoho.com,zoho,,,pyonal.cf,nwregions.zip,,8a6c2023941fbb72a0344f46f2f37da25106b67d0bd680653d4dc07689079671,http://pyonal.cf/nwregions.zip
 9/11/2018,@TheQuickRedFoxx,goanzcharter@gmail.com,gmail,,Office365,pyonal.ga,Officeand365.zip,,09f8fdd28880de48ecf6ce133689ce60ba8cc9d834825a5b264c383495ca9f10,http://pyonal.ga/Officeand365.zip
 9/11/2018,@TheQuickRedFoxx,kgembassymyy@gmail.com,gmail,,OneDrive,delunt.ml,Onedrive632.zip,,2eb7cd92f4ea1bea787649d587f4ac6617d897fc9995fa0bc8937e04b2740f04,http://delunt.ml/doc/Onedrive632.zip
@@ -437,7 +437,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 9/22/2018,@TheQuickRedFoxx,l33bo.phishers@gmail.com,gmail,,Chase,loumansiotres.com,chase.zip,,5034256118b528c9649d263588bec4a7dd58f1fa9fef3892b7070d0168ddd7ad,http://loumansiotres.com/chase/chase.zip
 9/22/2018,@TheQuickRedFoxx,lan.tester@yahoo.com,yahoo,,,(standard,SSH-Brute-Force-Scanner-gh-pages.zip,,cabd2857fc71a08b3e08a6d2d596e71df80bc70e9bba61b9de0cee44c39b2909,http://vikarilogaires.com/js/SSH-Brute-Force-Scanner-gh-pages.zip
 9/22/2018,@TheQuickRedFoxx,lan.tester@yahoo.com,yahoo,,,vikarilogaires.com,SSH-Brute-Force-Scanner-gh-pages.zip,,cabd2857fc71a08b3e08a6d2d596e71df80bc70e9bba61b9de0cee44c39b2909,http://vikarilogaires.com/js/SSH-Brute-Force-Scanner-gh-pages.zip
-9/22/2018,@TheQuickRedFoxx,lodsteel@gmail.com,gmail,,Microsoft,capivrence.com,OUTLOOKNEW.zip,,d2b766c6f87b29ef02235f4c3457cf1af00814c5ca9aa203fa2e8b9db76f8b63,http://capivrence.com/casket/OUTLOOKNEW.zip
+9/22/2018,@TheQuickRedFoxx,lodsteel@gmail.com,gmail,,Outlook,capivrence.com,OUTLOOKNEW.zip,,d2b766c6f87b29ef02235f4c3457cf1af00814c5ca9aa203fa2e8b9db76f8b63,http://capivrence.com/casket/OUTLOOKNEW.zip
 9/22/2018,@TheQuickRedFoxx,madwire101@gmail.com,gmail,,,loumansiotres.com,1und1.zip,,38d22b8103cf930b217661651e8405777e56aa6021fe89b94c0fb15c0bb8725a,http://loumansiotres.com/1und1.zip
 9/22/2018,@TheQuickRedFoxx,mailtracefor@yahoo.com,yahoo,,,shoumaduak.ga,X3D-Domain.zip,,dcef8dcfe3c325894d8b5b8acc589d77587e8e01d10389fa9c2b0326ebd221a5,http://shoumaduak.ga/update/X3D-Domain.zip
 9/22/2018,@TheQuickRedFoxx,pauldan652@gmail.com,gmail,,,mandouzances.com,ScreenDrop.zip,,1645437f712a2e97b8810f10f6851ccf2cfe409bdd03361295bbb2092d76be13,http://mandouzances.com/calstdn/ScreenDrop.zip
@@ -460,8 +460,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/1/2018,@TheQuickRedFoxx,azzitradings@gmail.com,gmail,,DHLUS,cedcs.usa.cc,dhlpage.zip,,59f8b406cd645f52d1c12b121a9a20674aa98acedeb3c376497f34cf8de235c5,http://cedcs.usa.cc/dhlpage.zip
 10/1/2018,@TheQuickRedFoxx,bobbygraham264@gmail.com,gmail,,OneDrive,thombs.ml,onedrive.zip,,1491e19fb3545fb6ab0b39413dad919f0bef1856e54510719e36f0e3fe7c6552,http://thombs.ml/cgibin/onedrive.zip
 10/1/2018,@TheQuickRedFoxx,checkpoint017@gmail.com,gmail,,Match,eieght8.cf,Match.zip,,751e8b09658c8f2118c4c9069d62499e2cb82ddf11efea3a546ee788626782fd,http://eieght8.cf/re/Match.zip
-10/1/2018,@TheQuickRedFoxx,dennissummer75@gmail.com,gmg,,,eieght8.ml,fund-3.zip,,3c565bebcb3cf5755ed1be841d45378555ca2676db074bd63df9231316d5a94c,http://eieght8.ml/fund-3.zip
-10/1/2018,@TheQuickRedFoxx,feminist008@gmail.com,gm,,Microsoft,aokkute.com,microsoftonline.secured.zip,,357f53bd938f84e548b0235801f8ae8b54e16a8e6161d7b0f69e341eaf3d573b,http://aokkute.com/microsoftonline.secured.zip
+10/1/2018,@TheQuickRedFoxx,dennissummer75@gmail.com,gmail,,,eieght8.ml,fund-3.zip,,3c565bebcb3cf5755ed1be841d45378555ca2676db074bd63df9231316d5a94c,http://eieght8.ml/fund-3.zip
+10/1/2018,@TheQuickRedFoxx,feminist008@gmail.com,gmail,,Microsoft,aokkute.com,microsoftonline.secured.zip,,357f53bd938f84e548b0235801f8ae8b54e16a8e6161d7b0f69e341eaf3d573b,http://aokkute.com/microsoftonline.secured.zip
 10/1/2018,@TheQuickRedFoxx,markroger35@yahoo.com,yahoo,,Ourtime,doings.ga,our3time.zip,,d01f946b02e7b3d69eb3623448fd50acdf325b88c451e9999c82b295c9f19964,http://doings.ga/dc/our3time.zip
 10/1/2018,@TheQuickRedFoxx,mister110@protonmail.com,protonmail,,,cedcs.usa.cc,mart.zip,,6c39474e553355bc5a461fecd13bfc0a0b1b39e9282bdf7fa7699b48aa6e570d,http://cedcs.usa.cc/mart.zip
 10/1/2018,@TheQuickRedFoxx,rhodestroy0@gmail.com,gmail,,,areaas.ga,benhorde.zip,,dd1f0854480b40c75edfcbd31b48d081e33dbc89404a7e8e634a4301498f5386,http://areaas.ga/benhorde.zip
@@ -512,7 +512,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/10/2018,@TheQuickRedFoxx,jean45536@gmail.com,gmail,,,trackulansaires.com,scamashane.zip,,16334c927668ea605687b4617723e0ba25055e11b2a489ff3d6afebe7984227f,http://trackulansaires.com/scamashane.zip
 10/10/2018,@TheQuickRedFoxx,minskconnor@gmail.com,gmail,,Apple,kandusaione.cf,Apples.zip,,69511d66f346844629cfd9d7e71705719a1f33007283ae68098f772083c95ec5,http://kandusaione.cf/room/Apples.zip
 10/10/2018,@TheQuickRedFoxx,schmittwestwood@gmail.com,gmail,,Apple,kandusaione.cf,apples.zip,,3872a5dcbe5d72d93ec9fd1494530eb825792e79f80325c90f5791dac71d2deb,http://kandusaione.cf/mst/apples.zip
-10/10/2018,@TheQuickRedFoxx,tramardesigns@gmail.com,gmail,,Microsoft,vensejantere.ga,live.zip,,86e0fd63593122eae9313f7b8b075b83300a4a75f50cdf74383e922e75d77aaa,http://vensejantere.ga/live.zip
+10/10/2018,@TheQuickRedFoxx,tramardesigns@gmail.com,gmail,,Live,vensejantere.ga,live.zip,,86e0fd63593122eae9313f7b8b075b83300a4a75f50cdf74383e922e75d77aaa,http://vensejantere.ga/live.zip
 10/10/2018,@TheQuickRedFoxx,user_maintanance912566@outlook.com,outlook,,,tmantre.com,HOTTY.zip,,7a485e4c58f503fa0ae9468c8793a1bf6e1b104d4d61b6a9d37ccde1074c904e,http://tmantre.com/HOTTY.zip
 10/11/2018,https://twitter.com/PhishingAi/status/1050494923730956288,onecustomerbox@gmail.com,gmail,,Microsoft,finmedbrokers.co.za,Macro.zip,GOD'S SON,,
 10/11/2018,https://twitter.com/PhishingAi/status/1050494923730956288,onecustomerbox@gmail.com,gmail,,Microsoft,liberty-united.com,Macro.zip,GOD'S SON,,
@@ -527,8 +527,6 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/11/2018,@TheQuickRedFoxx,blaqjamesonxx@protonmail.com,protonmail,,,independently.nut.cc,upp.zip,,7b7a6f9058606477bbd14f47ba270470ea930a3d8c63694eb0f050982527fe44,http://independently.nut.cc/upp.zip
 10/11/2018,@TheQuickRedFoxx,blaqjamesonxx@protonmail.com,protonmail,,,independently.nut.cc,UPER.zip,,7b9a0d5d43ad85695859af7301689ae44ae917995db39622c798c7a9dbd5cd6f,http://independently.nut.cc/UPER.zip
 10/11/2018,@TheQuickRedFoxx,ceo44411@gmail.com,gmail,,,fanzx.ipq.co,Encrypted.zip,,957a4f4cd6789ddbb4183c39b837a8c8b94702d53e9186335c1ed5278cf77855,http://fanzx.ipq.co/Docsel/Encrypted.zip
-10/11/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,,machines.nut.cc,5ts.zip,,30ec595838a5cf4c1993676d41f64b006d07e68a5afcb21df6305731aaa36d65,http://machines.nut.cc/hg443/5ts.zip
-10/11/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,,devotion.igg.biz,late-code.zip,,c6dc4e9b711f48407668565da734e1cfc17566d11bc08c9882974d164fb880c5,http://devotion.igg.biz/late-code.zip
 10/11/2018,@TheQuickRedFoxx,crimelorddunga@gmail.com,gmail,,,hearts.ipq.co,at.zip,,4e38dbcfb34c4ab6bf50cd54eadcec798e3403fcca63680cece611efdd4511de,http://hearts.ipq.co/arrtt/at.zip
 10/11/2018,@TheQuickRedFoxx,customercare.peoplemeet90809@gmail.com,gmail,,Ourtime,recordb.ipq.co,ourtimet-_1.zip,,d02b01c6638d6714e669c780a75feda045a7468e70adaf21a7f6d09ce85daf52,http://recordb.ipq.co/L0I7/ourtimet-_1.zip
 10/11/2018,@TheQuickRedFoxx,dambedropz11@gmail.com,gmail,,,floerdral.sytes.net,kunden.zip,,a095130f1189bb68b30142c767fd2d6012c4cb573390a7e4456f0d890d079486,http://floerdral.sytes.net/T/kunden.zip
@@ -541,15 +539,15 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/11/2018,@TheQuickRedFoxx,love.struck092@gmail.com,gmail,,,retleksome.hopto.org,lok.zip,,9d190aae5d64f8fe1bd624af7dfa58d6a098531f3ef078e7e4c88105b5abc534,http://retleksome.hopto.org/i0ng8.t0lr/lok.zip
 10/11/2018,@TheQuickRedFoxx,momoh0003@gmail.com,gmail,,,variousx.ml,dr.zip,,89cdf0aadd2c7e1ba4964b10f746c1a6cfec329546b10b7b9fa545c668f3e835,http://variousx.ml/mh/dr.zip
 10/11/2018,@TheQuickRedFoxx,petehutch56@gmail.com,gmail,,Ourtime,openeds.ml,ouurt.zip,,5671f6668fa2e38894af76603af2e009b0f210d4236c93fadd5be25aa5ee7b67,http://openeds.ml/Goo/ouurt.zip
-10/12/2018,https://twitter.com/JonSelman/status/1050824905971896322,doncharming001@gmail.com,gmail,next.php,Microsoft,danfodiver.com,Outlook New Final 2017.zip,FUDTool,,
+10/12/2018,https://twitter.com/JonSelman/status/1050824905971896322,doncharming001@gmail.com,gmail,next.php,Outlook,danfodiver.com,Outlook New Final 2017.zip,FUDTool,,
 10/13/2018,@TheQuickRedFoxx,admintest@hotmail.com,hotmail,,,imagines.ga,smartsheet-auto.zip,,ac8aeded3be15ae6fb3aeed2c249884fd1796dc7445c5b3bdfd98de27f34cef2,http://imagines.ga/smartsheet/smartsheet-auto.zip
 10/13/2018,@TheQuickRedFoxx,Bobbyjay286@gmail.com,gmail,,,selfing.ml,Document.zip,,eefa0c2462cd246af466bae71978e96b32d1c4e4d230634ccee1970b49409f8f,http://selfing.ml/logs/Document.zip
 10/13/2018,@TheQuickRedFoxx,Bobbyjay286@gmail.com,gmail,,,selfing.ml,Document.zip,,eefa0c2462cd246af466bae71978e96b32d1c4e4d230634ccee1970b49409f8f,http://selfing.ml/admin/Document.zip
-10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Microsoft,reproductive.ml,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://reproductive.ml/Hotmail.zip
-10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Microsoft,reproductive.ml,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://reproductive.ml/New/Hotmail.zip
-10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Microsoft,selfing.cf,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://selfing.cf/Hotmail.zip
-10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Microsoft,sometimes.ga,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://sometimes.ga/work/Hotmail.zip
-10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Microsoft,sometimes.ga,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://sometimes.ga/new/Hotmail.zip
+10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Hotmail,reproductive.ml,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://reproductive.ml/Hotmail.zip
+10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Hotmail,reproductive.ml,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://reproductive.ml/New/Hotmail.zip
+10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Hotmail,selfing.cf,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://selfing.cf/Hotmail.zip
+10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Hotmail,sometimes.ga,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://sometimes.ga/work/Hotmail.zip
+10/13/2018,@TheQuickRedFoxx,bricoferamentas@gmail.com,gmail,,Hotmail,sometimes.ga,Hotmail.zip,,aa30dc499a10f94cf96e82e3e8e53d49871bd347e991107c0873aaf0fa255678,http://sometimes.ga/new/Hotmail.zip
 10/13/2018,@TheQuickRedFoxx,carter007@zoho.com,zoho,,Office365,confidences.cf,Newwmicrosoftoffice.zip,,d9fcacb4d0a044c3e4d756d794fb7ce4a47628518f79f1fd37e492823103d07c,http://confidences.cf/car/Newwmicrosoftoffice.zip
 10/13/2018,@TheQuickRedFoxx,mnamero@hotmail.com,hotmail,,Office365,confidences.cf,Newwmicrosoftoffice.zip,,d9fcacb4d0a044c3e4d756d794fb7ce4a47628518f79f1fd37e492823103d07c,http://confidences.cf/car/Newwmicrosoftoffice.zip
 10/13/2018,@TheQuickRedFoxx,cforeplyto@gmail.com,gmail,,,romances.cf,12.zip,,dea8ffdf303faeec7fbcf42add153c18105666073583a610129c1697dc045e51,http://romances.cf/12.zip
@@ -580,7 +578,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/17/2018,@TheQuickRedFoxx,bettycarbullido09@gmail.com,gmail,,,pythoncp.tk,shoboi.zip,,1c39cd4f94da927007306cd41337d5caa37923965ae592d49af4fb4674ca682e,http://pythoncp.tk/try/shoboi.zip
 10/17/2018,@TheQuickRedFoxx,button.au@yandex.com,yandex,,,droopbox.ml,secure.zip,,bf5f804da7f57358ec046f79d4ee1963248908cc40567a538d2de87614794e9b,http://droopbox.ml/secure.zip
 10/17/2018,@TheQuickRedFoxx,ceodpt26@gmail.com,gmail,,Docusign,doocs.ml,docu.zip,,9faded5886582e80ebca4c67199e2ba31e36fb8767146a1de23b06eb31b6c16a,http://doocs.ml/Secures/docu.zip
-10/17/2018,@TheQuickRedFoxx,cleansweep1960@hotmail.com,hotmail,,Microsoft,doocs.gq,newhotmail.zip,,0fe08b2c8948a3cf21e4377e54370e66c2f3daccd66eb8d024bf33c0716004ad,http://doocs.gq/ot/newhotmail.zip
+10/17/2018,@TheQuickRedFoxx,cleansweep1960@hotmail.com,hotmail,,Hotmail,doocs.gq,newhotmail.zip,,0fe08b2c8948a3cf21e4377e54370e66c2f3daccd66eb8d024bf33c0716004ad,http://doocs.gq/ot/newhotmail.zip
 10/17/2018,@TheQuickRedFoxx,davidrankin248@gmail.com,gmail,,Ourtime,pythoncp.tk,Ourtim589977.zip,,07599cc6d8e32ab7746f1cac6068c5f4a427098a48165da47549b7006af3359c,http://pythoncp.tk/oo/Ourtim589977.zip
 10/17/2018,@TheQuickRedFoxx,dinewithdevil@protonmail.com,protonmail,,OneDrive,ttzseries.ga,one.zip,,697b4ad9f10413b3388523841610facee7e3bc4c700009ef5674769933d0fbad,http://ttzseries.ga/One/one.zip
 10/17/2018,@TheQuickRedFoxx,edtonk17@gmail.com,gmail,,Ourtime,sketchpota.tk,Ourtime1.zip,,128ad488de2b394612feee62d7f99185c849effd15c45dee05a7a499e1b397da,http://sketchpota.tk/6luv/Ourtime1.zip
@@ -618,15 +616,14 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/19/2018,@TheQuickRedFoxx,brunoadechiinan@gmail.com,gmail,,Ourtime,literary.cf,our3time.zip,,31b75e0518939f06faac8b42964a0ac90a82992de6bb01806c8b85744d18b8d1,http://literary.cf/sigh/our3time.zip
 10/19/2018,@TheQuickRedFoxx,cleanestresults@gmail.com,gmail,,DHLUS,comfortables.ml,usman.DHL.zip,,895832f81da380f2b228750de1f407092c52ce058406a5833832c168ca558bd1,http://comfortables.ml/olor/usman.DHL.zip
 10/19/2018,@TheQuickRedFoxx,client@gmail.com,gmail,,Alibaba,beardies.ml,Alibabanew1.zip,,b1cd7e0bcf4a1c8522b228a58450fce4e516466895b7f690873fd4df253e60da,http://beardies.ml/xfiles/Alibabanew1.zip
-10/19/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,DHLUS,realevents.flu.cc,DHL.zip,,76a7b98cd5d5db15dafada0620965348b9539f9adfc4fe0149b7942e288938e1,http://realevents.flu.cc/cn/DHL.zip
-10/19/2018,@TheQuickRedFoxx,danklent@aol.com,aol,,Microsoft,zippers.ga,hotm.zip,,bcf76041877cc18fe9cf01baffcd6632af3e30fde900368a7eca07baa9113a79,http://zippers.ga/locked/hotm.zip
+10/19/2018,@TheQuickRedFoxx,danklent@aol.com,aol,,Hotmail,zippers.ga,hotm.zip,,bcf76041877cc18fe9cf01baffcd6632af3e30fde900368a7eca07baa9113a79,http://zippers.ga/locked/hotm.zip
 10/19/2018,@TheQuickRedFoxx,dbcehtel@gmail.com,gmail,,,negotiators.ga,bless.zip,,1bf2fd8346d3cbe71fa04e4016c5567301d026a078d7c8a1e2aea4ee340b21ee,http://negotiators.ga/file/bless.zip
 10/19/2018,@TheQuickRedFoxx,dranselmhennis@gmail.com,gmail,,,detachable.ga,omo.zip,,a4caa30c39d6b358d0d0d6b586a4e5efb9f0fbf89407cdfa4345fb6cecffe1ae,http://detachable.ga/omo.zip
-10/19/2018,@TheQuickRedFoxx,fredrickdavies06@gmail.com,gmail,,Microsoft,neighbourss.ga,newhotmail2.zip,,92601ffa9e29506fd8d62d1dd0b4833201a0f6b261fb377fb875885162871a6f,http://neighbourss.ga/Wpd-adm/newhotmail2.zip
-10/19/2018,@TheQuickRedFoxx,fredrickdavies06@gmail.com,gmail,,Microsoft,neighbourss.ga,newhotmail2.zip,,92601ffa9e29506fd8d62d1dd0b4833201a0f6b261fb377fb875885162871a6f,http://neighbourss.ga/Wpd-admin/newhotmail2.zip
+10/19/2018,@TheQuickRedFoxx,fredrickdavies06@gmail.com,gmail,,Hotmail,neighbourss.ga,newhotmail2.zip,,92601ffa9e29506fd8d62d1dd0b4833201a0f6b261fb377fb875885162871a6f,http://neighbourss.ga/Wpd-adm/newhotmail2.zip
+10/19/2018,@TheQuickRedFoxx,fredrickdavies06@gmail.com,gmail,,Hotmail,neighbourss.ga,newhotmail2.zip,,92601ffa9e29506fd8d62d1dd0b4833201a0f6b261fb377fb875885162871a6f,http://neighbourss.ga/Wpd-admin/newhotmail2.zip
 10/19/2018,@TheQuickRedFoxx,general.ijunk@gmail.com,gmail,,,neighbourss.ga,hotis.zip,,8dad8f248814d4eb10d03981e6c861a2d2b157db646d45f4355a48872d4f2ea2,http://neighbourss.ga/onitiju/hotis.zip
 10/19/2018,@TheQuickRedFoxx,hardekunle9015@gmail.com,gmail,,,beardies.ga,7000.zip,,372aec959719712ee9d48199d4e4d3e91429bf7506b9249449ffdce73a0833a9,http://beardies.ga/7000.zip
-10/19/2018,@TheQuickRedFoxx,jamesbrown08@mail.ru,mail,,OneDrive,productstrading.usa.cc,ONEDRIVE.zip,,0d937a3216dbee8067b334a6b9902c2d209a9b78424bd1716dbfcd3da15ec82d,http://productstrading.usa.cc/ONEDRIVE.zip
+10/19/2018,@TheQuickRedFoxx,jamesbrown08@mail.ru,mail.ru,,OneDrive,productstrading.usa.cc,ONEDRIVE.zip,,0d937a3216dbee8067b334a6b9902c2d209a9b78424bd1716dbfcd3da15ec82d,http://productstrading.usa.cc/ONEDRIVE.zip
 10/19/2018,@TheQuickRedFoxx,junior.endurance11@gmail.com,gmail,,,youngest.cf,k.zip,,97e9bda807086713298b1a227f61ed8bd8f48df117f4ced39a0e9d488ea2ee64,http://youngest.cf/mypictures/k.zip
 10/19/2018,@TheQuickRedFoxx,linkplus6060@gmail.com,gmail,,,dolphinss.cf,rash.php.zip,,e93a78de7b4dd2e34a391f9d6dbed12936c51978ed2dbbdb1306fdc6a7b92b6f,http://dolphinss.cf/btbtbtbtbtbtbtbtbbox/BTinter/rash.php.zip
 10/19/2018,@TheQuickRedFoxx,lucklily1@gmail.com,gmail,,,realevents.flu.cc,sheikh.zip,,05cdcec719a8b53bdbd70a36e628b6a84daf3cad6cfba578a1417ee7f2b5a511,http://realevents.flu.cc/cn/sheikh.zip
@@ -658,8 +655,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/21/2018,@TheQuickRedFoxx,asianlendingllc@gmail.com,gmail,,Dropbox,help-nbvnfgjopuy.tk,dropbox.zip,,e71ed2c7faff5fe32f129b5982a8cb2e600796d7e08e911ce0e172e864792031,http://help-nbvnfgjopuy.tk/dropbox.zip
 10/21/2018,@TheQuickRedFoxx,azzagroup01jobrecruit@gmail.com,gmail,,,rounds.ipq.co,English.zip,,90fe54fb7156a29f14995390873898b98e4297c6ef5ffbdba577518668146645,http://rounds.ipq.co/ccgipublic/English.zip
 10/21/2018,@TheQuickRedFoxx,braow@yandex.com,yandex,,,help-ghjhmbnas.ga,hotisjust.zip,,9df7d8aeb1025a9d2b0e6451e63d57ed02dc961b877021e2af4f83b7718d525f,http://help-ghjhmbnas.ga/zocc/hotisjust.zip
-10/21/2018,@TheQuickRedFoxx,danklent@aol.com,aol,,Microsoft,zippers.ga,hotm.zip,,bcf76041877cc18fe9cf01baffcd6632af3e30fde900368a7eca07baa9113a79,http://zippers.ga/locked/hotm.zip
-10/21/2018,@TheQuickRedFoxx,alibaba.naomi@hotmail.com,hotmail,,Microsoft,newsweek.ga,HOTMAILFILES.zip,,12d305befb6e7fd9803c34147c896b07a4b6a63175bdf9946ba318a87aea5367,http://newsweek.ga/mail/HOTMAILFILES.zip
+10/21/2018,@TheQuickRedFoxx,danklent@aol.com,aol,,Hotmail,zippers.ga,hotm.zip,,bcf76041877cc18fe9cf01baffcd6632af3e30fde900368a7eca07baa9113a79,http://zippers.ga/locked/hotm.zip
+10/21/2018,@TheQuickRedFoxx,alibaba.naomi@hotmail.com,hotmail,,Hotmail,newsweek.ga,HOTMAILFILES.zip,,12d305befb6e7fd9803c34147c896b07a4b6a63175bdf9946ba318a87aea5367,http://newsweek.ga/mail/HOTMAILFILES.zip
 10/21/2018,@TheQuickRedFoxx,anthonysmith0041@protonmail.com,protonmail,,,help-nbvnnmuoi.tk,Hotty.zip,,9bc9bd3c09de6a22588af24c9bf574d5a94d0848f012680b9d1af9a13e1d3749,http://help-nbvnnmuoi.tk/adm/Hotty.zip
 10/21/2018,@TheQuickRedFoxx,xoxobillionaire@gmail.com,gmail,,,help-hfgytjkoiupp.cf,invoice.zip,,c255d39a118cd76456af443f50b2f24a2328629880dffecdf99efe28e34590dd,http://help-hfgytjkoiupp.cf/fedam/invoice.zip
 10/21/2018,@TheQuickRedFoxx,eklee3810@gmail.com,gmail,,,towns.ipq.co,MailQuotaEng.zip,,c539251e3035483e4f97668a53f5a94a1d5484229796397cc7c7e2b89e5e1e4b,http://towns.ipq.co/press/MailQuotaEng.zip
@@ -720,9 +717,9 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/22/2018,@TheQuickRedFoxx,coolbrandon009@gmail.com,gmail,,,1maplestr.cf,business.zip,,cfe4308f7f01147089b58e02f1bc6ddfebc1cf985bc8b3937c56a4c5afd3ed0f,http://1maplestr.cf/index/business.zip
 10/22/2018,@TheQuickRedFoxx,coolbrandon009@gmail.com,gmail,,,1maplestr.cf,business.zip,,cfe4308f7f01147089b58e02f1bc6ddfebc1cf985bc8b3937c56a4c5afd3ed0f,http://1maplestr.cf/property/business.zip
 10/22/2018,@TheQuickRedFoxx,coolbrandon009@gmail.com,gmail,,OneDrive,1maplestr.cf,one-drive.zip,,a9a6695b0c7b51e8efaf25529db43da585a0f4152859336a235afc071a6078a1,http://1maplestr.cf/office/one-drive.zip
-10/22/2018,@TheQuickRedFoxx,ethanroy2018@gmail.com,gmail,,Micrsoft,6randolphs.gq,Hotmail-outlook-2018.zip,,4e56932569ab64cb9c4a95523379eb9882acd38c03a19ed926479654edd5cbb8,http://6randolphs.gq/msn/Hotmail-outlook-2018.zip
-10/22/2018,@TheQuickRedFoxx,ethanroy2018@gmail.com,gmail,,Micrsoft,6randolphs.gq,Hotmail-outlook-2018.zip,,4e56932569ab64cb9c4a95523379eb9882acd38c03a19ed926479654edd5cbb8,http://6randolphs.gq/ko/Hotmail-outlook-2018.zip
-10/22/2018,@TheQuickRedFoxx,user_maintanance912566@outlook.com,outlook,,Micrsoft,6randolphs.gq,Hotmail-outlook-2018.zip,,4e56932569ab64cb9c4a95523379eb9882acd38c03a19ed926479654edd5cbb8,http://6randolphs.gq/ko/Hotmail-outlook-2018.zip
+10/22/2018,@TheQuickRedFoxx,ethanroy2018@gmail.com,gmail,,Hotmail,6randolphs.gq,Hotmail-outlook-2018.zip,,4e56932569ab64cb9c4a95523379eb9882acd38c03a19ed926479654edd5cbb8,http://6randolphs.gq/msn/Hotmail-outlook-2018.zip
+10/22/2018,@TheQuickRedFoxx,ethanroy2018@gmail.com,gmail,,Hotmail,6randolphs.gq,Hotmail-outlook-2018.zip,,4e56932569ab64cb9c4a95523379eb9882acd38c03a19ed926479654edd5cbb8,http://6randolphs.gq/ko/Hotmail-outlook-2018.zip
+10/22/2018,@TheQuickRedFoxx,user_maintanance912566@outlook.com,outlook,,Hotmail,6randolphs.gq,Hotmail-outlook-2018.zip,,4e56932569ab64cb9c4a95523379eb9882acd38c03a19ed926479654edd5cbb8,http://6randolphs.gq/ko/Hotmail-outlook-2018.zip
 10/22/2018,@TheQuickRedFoxx,greggarza2013@gmail.com,gmail,,,slipagerxy.cf,docd.zip,,7e8a1c9b8d63dfdd552059876fbbe0ba56bca88cd3dcdd12a78cf7428955cf42,http://slipagerxy.cf/vixen/docd.zip
 10/22/2018,@TheQuickRedFoxx,keddy6@yandex.com,yandex,,,borensbergx.ml,css-main.zip,,160a66615c4d026b12a71f41d12b566765d9d5542084ff201402dc9611e5e686,http://borensbergx.ml/css-main.zip
 10/22/2018,@TheQuickRedFoxx,kingjaaporch@gmail.com,gmail,,,6randolphs.ml,0912.zip,,2806e6e9d5177bb8f30848e6db28002d518f9195cecff846e7555cf2f7f47c9e,http://6randolphs.ml/aa/0912.zip
@@ -750,10 +747,10 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/23/2018,@TheQuickRedFoxx,law422018@gmail.com,gmail,,,planouqidors.cf,M1sfgw.zip,,3784f56308db2aeaaad38ea98f59330db4482ca5bb023d4ab85ef32b51e8f584,http://planouqidors.cf/Boogss/softlifestylrrr/M1sfgw.zip
 10/23/2018,@TheQuickRedFoxx,ms.roselineebuka04@gmail.com,gmail,,Yahoo,wifionly.tk,yahoo.zip,,4a87412ef1ab960f9e00427ea41cb5fd3ddd6369e5ac23288c0fc049aa44199c,http://wifionly.tk/FF/yahoo.zip
 10/23/2018,@TheQuickRedFoxx,ms.roselineebuka04@gmail.com,gmail,,Yahoo,wifionly.tk,yahoo.zip,,4a87412ef1ab960f9e00427ea41cb5fd3ddd6369e5ac23288c0fc049aa44199c,http://wifionly.tk/IK/yahoo.zip
-10/23/2018,@TheQuickRedFoxx,myresultbox2016@outlook.com,outlook,,Microsoft,including.cf,HOTMAILNEW2017.zip,,c0eb7e90ceac8f202d1dd19beb7e55138b88f744a1e85ce5fbdbc112b6a61338,http://including.cf/jesus/HOTMAILNEW2017.zip
+10/23/2018,@TheQuickRedFoxx,myresultbox2016@outlook.com,outlook,,Hotmail,including.cf,HOTMAILNEW2017.zip,,c0eb7e90ceac8f202d1dd19beb7e55138b88f744a1e85ce5fbdbc112b6a61338,http://including.cf/jesus/HOTMAILNEW2017.zip
 10/23/2018,@TheQuickRedFoxx,p.pelly17888@gmail.com,gmail,,,wealthcre.gq,Hot-Latest.zip,,e0bc5f620b315c92d91ca0db88d2f979b3fc726152e23958084a05824f0cee45,http://wealthcre.gq/ho/Hot-Latest.zip
 10/23/2018,@TheQuickRedFoxx,p.pelly17888@gmail.com,gmail,,,wealthcre.gq,Hot-LatestPS.zip,,e0bc5f620b315c92d91ca0db88d2f979b3fc726152e23958084a05824f0cee45,http://wealthcre.gq/wap/ssl/acjl/Hot-LatestPS.zip
-10/23/2018,@TheQuickRedFoxx,Pelly17888@yandex.com,yandex,,Microsoft,traficantese.ml,Hotmail.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,http://traficantese.ml/mllsever/Hotmail.zip
+10/23/2018,@TheQuickRedFoxx,Pelly17888@yandex.com,yandex,,Hotmail,traficantese.ml,Hotmail.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,http://traficantese.ml/mllsever/Hotmail.zip
 10/23/2018,@TheQuickRedFoxx,poundsboy2@gmail.com,gmail,,,traficantese.ml,https(1).zip,,a52ce66de04b03d93e0a3231b39164f8ea393146bbc57f17bcf2a07a792cf711,http://traficantese.ml/sam/https(1).zip
 10/23/2018,@TheQuickRedFoxx,samgutton@gmail.com,gmail,,,entrmanvialres.ga,http.zip,,0bcac9482c006ba58c85267c34dcfe14248e331a92d864763efb752319677d02,http://entrmanvialres.ga/http.zip
 10/23/2018,@TheQuickRedFoxx,xoxobillionaire@gmail.com,gmail,,,planouqidors.cf,invoice.zip,,22960bb3896d741ea3b98265ae7b3a081ca4775e0f34fa031e51f2aa37c5a2cc,http://planouqidors.cf/Importantfile/invoice.zip
@@ -768,7 +765,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/24/2018,@TheQuickRedFoxx,jenkinsck93@gmail.com,gmail,,,confirm-methenagrondin.info,GreenDot.zip,,2e6a4a15f353462629ce48f847d421be64ff3c6083b81ce5df368a1886676c09,http://confirm-methenagrondin.info/emailsset/wesendit_bXN522n2Q72d/GreenDot.zip
 10/24/2018,@TheQuickRedFoxx,championsleaguefinal2018@gmail.com,gmail,,Office365,verify-boinles-accoubt.com,office-3651.zip,,550f319aa4e1eb44daf696d9a9370841327f7f50acce7cf95ad36c0643210a2a,http://verify-boinles-accoubt.com/outlook.office.com/office-3651.zip
 10/24/2018,@TheQuickRedFoxx,alex.triggs07@gmail.com,gmail,,Comcast,davewalden.us,comcast.zip,,7bf5ee4598792f98be8c7010a2865f97cc810fae61f818b2d01f09cb95f18c1a,http://davewalden.us/xfinity/comcast.zip
-10/24/2018,@TheQuickRedFoxx,jimcomo101@gmail.com,gmail,,Microsoft,denise-thibault.org,hotmail2016.zip,,85eea39348355b8bf4d73a717c7861fddb952900e3bdad936b371a1f9665813c,http://denise-thibault.org/siagsh/hotmail2016.zip
+10/24/2018,@TheQuickRedFoxx,jimcomo101@gmail.com,gmail,,Hotmail,denise-thibault.org,hotmail2016.zip,,85eea39348355b8bf4d73a717c7861fddb952900e3bdad936b371a1f9665813c,http://denise-thibault.org/siagsh/hotmail2016.zip
 10/24/2018,@TheQuickRedFoxx,dranselmhennis@gmail.com,gmail,,,kailaghskreations.com,omo.zip,,a4caa30c39d6b358d0d0d6b586a4e5efb9f0fbf89407cdfa4345fb6cecffe1ae,http://kailaghskreations.com/spm/omo.zip
 10/24/2018,@TheQuickRedFoxx,dranselmhennis@gmail.com,gmail,,,kailaghskreations.com,omo.zip,,a4caa30c39d6b358d0d0d6b586a4e5efb9f0fbf89407cdfa4345fb6cecffe1ae,http://kailaghskreations.com/New/omo.zip
 10/24/2018,@TheQuickRedFoxx,Generalwatayo@gmail.com,gmail,,,christine-petitjean.com,Germany.zip,,c2d5b8330c90661f7cecd0db2db68d51eb57460e47f903f4f54d9aadeae26a38,http://christine-petitjean.com/mil/Germany.zip
@@ -791,7 +788,6 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/26/2018,@TheQuickRedFoxx,dranselmhennis@gmail.com,gmail,,,resembled.cf,omo.zip,,a4caa30c39d6b358d0d0d6b586a4e5efb9f0fbf89407cdfa4345fb6cecffe1ae,http://resembled.cf/omo.zip
 10/26/2018,@TheQuickRedFoxx,lordharkzy@gmail.com,gmail,,MsExcel,experiences.ml,excel.zip,,baa356a1eeaf9cb0477daf23b9f50c4e7734070e9cceb44aeb797427307549e1,http://experiences.ml/excel.zip
 10/26/2018,@TheQuickRedFoxx,nouman.sa33d@gmail.com,gmail,,,assumings.ml,2018out.zip,,c337b1457ab005224b4f6d3851289d8b2945064cd6edd24b25c6a70cafc6c1ed,http://assumings.ml/2018out.zip
-10/26/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,,identical.ga,share.zip,,c59b6c193ab5a9c2755765587bac86098e634972b0fb3c3158f7906ca40dc10b,http://identical.ga/my.sharepoint/ass/share.zip
 10/26/2018,@TheQuickRedFoxx,cleansweep1960@hotmail.com,hotmail,,,experiences.ml,king.zip,,d9d0c8885ad4ad9b3d98ae1f740f790d2137a1163a793793a0698151b709023b,http://experiences.ml/king.zip
 10/26/2018,@TheQuickRedFoxx,gofundmegreece1@gmail.com,gmail,,OneDrive,cylindrical.ga,onedri.zip,,e3a36de968adab742d0d7d3b5c3cf6ec68a67fea6dc1ebdd1288002ab48d439d,http://cylindrical.ga/onedri.zip
 10/26/2018,@TheQuickRedFoxx,edwardmilton2@gmail.com,gmail,,,cultivated.ml,CBEdited.zip,,f6fa7932a0fe0d0eabc0ce2ea35f2d788b546d0a83d6287625dfa388df195c51,http://cultivated.ml/cgi.bin/CBEdited.zip
@@ -808,8 +804,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/27/2018,@TheQuickRedFoxx,somethinglight101@gmail.com,gmail,,,dnablok.com,points.zip,,3def6dccef15d01d2bc7d2f98908bd2fe8545acd93f7d5fa4b245826abb4f982,http://dnablok.com/Wish/points.zip
 10/27/2018,@TheQuickRedFoxx,jidemarvel1313@gmail.com,gmail,,Office365,sbalkm.com,office365.zip,,7baf2bf62d9d3bd68f66f5f56b27b59cb7982365e419f10d216aacb2c7d7ef61,http://sbalkm.com/office365.zip
 10/27/2018,@TheQuickRedFoxx,limedrinkbudlight@gmail.com,gmail,,Office365,sbalkm.com,office365.zip,,7baf2bf62d9d3bd68f66f5f56b27b59cb7982365e419f10d216aacb2c7d7ef61,http://sbalkm.com/office365.zip
-10/27/2018,@TheQuickRedFoxx,johnsonjimmy697@gmail.com,gmail,,Fe,cauisok.com,fe.zip,,a5a239d6ff99d70ee903ecabe90bba5f9a0dc4e0f8b926b7e7a2c8ed3996707c,http://cauisok.com/delete/fe.zip
-10/27/2018,@TheQuickRedFoxx,monetcurtin@gmail.com,gmail,,Fe,cauisok.com,fe.zip,,a5a239d6ff99d70ee903ecabe90bba5f9a0dc4e0f8b926b7e7a2c8ed3996707c,http://cauisok.com/delete/fe.zip
+10/27/2018,@TheQuickRedFoxx,johnsonjimmy697@gmail.com,gmail,,,cauisok.com,fe.zip,,a5a239d6ff99d70ee903ecabe90bba5f9a0dc4e0f8b926b7e7a2c8ed3996707c,http://cauisok.com/delete/fe.zip
+10/27/2018,@TheQuickRedFoxx,monetcurtin@gmail.com,gmail,,,cauisok.com,fe.zip,,a5a239d6ff99d70ee903ecabe90bba5f9a0dc4e0f8b926b7e7a2c8ed3996707c,http://cauisok.com/delete/fe.zip
 10/28/2018,@TheQuickRedFoxx,ronaldbates487@gmail.com,gmail,,,help-ghjjhikuyop.cf,ofsc.zip,,17e771aa7c836620b7762508fed188cedfdc5560adf55240a84b4a9f1397d411,http://help-ghjjhikuyop.cf/office/ofsc.zip
 10/28/2018,@TheQuickRedFoxx,sasia.result@gmail.com,gmail,,,nahslm.com,bank.pdf.zip,,387d65eac2c26612dfb267c2aefc815ea09910f82392bf6732d228cfa55e458f,http://nahslm.com/bank.pdf.zip
 10/28/2018,@TheQuickRedFoxx,nwachinemeresuccess@gmail.com,gmail,,,help-mnbnbhjoiaasw.ga,webb.zip,,5784efb7895117e37df95853a3d6af2872fd46777bef71faefee839ac3391a4b,http://help-mnbnbhjoiaasw.ga/user/webb.zip
@@ -847,8 +843,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/29/2018,@TheQuickRedFoxx,anny.duweivices@gmail.com,gmail,,MsExcel,snadionugh.de,excelerror.zip,,f27d73f69922b2a11352a6cbc2b4f376b209b0fc1be447473d9c0093d7c3a5fd,http://snadionugh.de/excelerror.zip
 10/29/2018,@TheQuickRedFoxx,anna.raegent@gmail.com,gmail,,Office365,snadionugh.de,OFFICE.zip,,f96934d89b58e4a68dfe4e38b512177be90dd3e6174c951ee3be7cf26b0ad5a7,http://snadionugh.de/OFFICE.zip
 10/29/2018,@TheQuickRedFoxx,ask4iliyasu@gmail.com,gmail,,,hauwlsk.com,ADCB-account-verification.zip,,f9e38cfd493de3abedb8e48d3f94c943b4b83e975500642a6fa2821ae638d1f4,http://hauwlsk.com/ADCB-/ADCB-account-verification.zip
-10/29/2018,@TheQuickRedFoxx,kalebwaner00@gmail.com,gmail,,Microsoft,fertrohive.com,hotmail.zip,,fc26ccc492ea8a2cbde0d64c910a979b8a3402d1070f8aebcc777a78909cd636,http://fertrohive.com/msn/hotmail.zip
-10/29/2018,@TheQuickRedFoxx,wellslyn80@gmail.com,gmail,,Microsoft,fertrohive.com,hotmail.zip,,fc26ccc492ea8a2cbde0d64c910a979b8a3402d1070f8aebcc777a78909cd636,http://fertrohive.com/msn/hotmail.zip
+10/29/2018,@TheQuickRedFoxx,kalebwaner00@gmail.com,gmail,,Hotmail,fertrohive.com,hotmail.zip,,fc26ccc492ea8a2cbde0d64c910a979b8a3402d1070f8aebcc777a78909cd636,http://fertrohive.com/msn/hotmail.zip
+10/29/2018,@TheQuickRedFoxx,wellslyn80@gmail.com,gmail,,Hotmail,fertrohive.com,hotmail.zip,,fc26ccc492ea8a2cbde0d64c910a979b8a3402d1070f8aebcc777a78909cd636,http://fertrohive.com/msn/hotmail.zip
 10/30/2018,@TheQuickRedFoxx,iamcoke.boi@gmail.com,gmail,,,consumption.ml,verify.zip,,2112c5faef905283fa4b3e2520337f15325a4cb123468f28fdaca2778db06150,http://consumption.ml/confirm/verify.zip
 10/30/2018,@TheQuickRedFoxx,remaxshit@gmail.com,gmail,,,excessive.cf,box(1).zip,,4af27d3efe706857bc2598acdfcae3ec026a8bfad86e9d8eb4532e7672ed634b,http://excessive.cf/caine/box(1).zip
 10/30/2018,@TheQuickRedFoxx,boxbrain230@yahoo.com,yahoo,,Office365,evaporation.cf,office-3.zip,,6d80ef877e6430b8068de6aa1929e1dfb707445478730d106954cae094c3f807,http://evaporation.cf/office-3.zip
@@ -872,7 +868,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 10/30/2018,@TheQuickRedFoxx,cushlilly@yahoo.com,yahoo,,Office365,namodigef.usa.cc,office365.zip,,6db9d54ef13ed51dc0cb4b19fe43418cec56f3ff55fa4efdecba18a96a5ceaa4,http://namodigef.usa.cc/B1/office365.zip
 10/30/2018,@TheQuickRedFoxx,cushlilly@yahoo.com,yahoo,,Office365,namodigef.usa.cc,office365.zip,,6db9d54ef13ed51dc0cb4b19fe43418cec56f3ff55fa4efdecba18a96a5ceaa4,http://namodigef.usa.cc/B2/office365.zip
 10/30/2018,@TheQuickRedFoxx,cushlilly@yahoo.com,yahoo,,Office365,namodigef.usa.cc,office365.zip,,6db9d54ef13ed51dc0cb4b19fe43418cec56f3ff55fa4efdecba18a96a5ceaa4,http://namodigef.usa.cc/B3/office365.zip
-10/30/2018,@TheQuickRedFoxx,markglatter007@gmail.com,gmail,,Amex365,sajusulome.usa.cc,Amex.zip,,f98ced7251d2faf789f255a450b8c91efe26137e074910e76718d250de4d71ef,http://sajusulome.usa.cc/ren/Amex.zip
+10/30/2018,@TheQuickRedFoxx,markglatter007@gmail.com,gmail,,AmericanExpress,sajusulome.usa.cc,Amex.zip,,f98ced7251d2faf789f255a450b8c91efe26137e074910e76718d250de4d71ef,http://sajusulome.usa.cc/ren/Amex.zip
 10/30/2018,@TheQuickRedFoxx,outlaw.nigga@outlook.com,outlook,,,consumption.ml,verify.zip,,2112c5faef905283fa4b3e2520337f15325a4cb123468f28fdaca2778db06150,http://consumption.ml/confirm/verify.zip
 10/30/2018,@TheQuickRedFoxx,outlaw.nigga@yahoo.com,yahoo,,,consumption.ml,verify.zip,,2112c5faef905283fa4b3e2520337f15325a4cb123468f28fdaca2778db06150,http://consumption.ml/confirm/verify.zip
 10/30/2018,@TheQuickRedFoxx,softwire083@gmail.com,gmail,,Office365,evaporation.cf,office-3.zip,,6d80ef877e6430b8068de6aa1929e1dfb707445478730d106954cae094c3f807,http://evaporation.cf/office-3.zip
@@ -954,8 +950,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/2/2018,@TheQuickRedFoxx,benathowen@gmail.com,gmail,,DHLUS,,DHLLEVELS.zip,,5b807f3a9a625029a45183d450a1872a6e44ad2db131a8d19d76008bfbdb5ad3,
 11/2/2018,@TheQuickRedFoxx,Wilsongood9990@gmail.com,gmail,,,,Emailupdate.zip,,62babdddde5a69e114d1cd0a810e68d5b03a18fd894fef166f6b93b7d1c39a0a,
 11/2/2018,@TheQuickRedFoxx,richorse__susu@126.com,126,,,,fals1.zip,,047d46983287ce7b50d7d7cd414c6837dcf78c47352c05989e79b386febdfb32,
-11/2/2018,@TheQuickRedFoxx,Pelly17888@yandex.com,yandex,,Microsoft,,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,
-11/2/2018,@TheQuickRedFoxx,p.pelly17888@gmail.com,gmail,,Microsoft,,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,
+11/2/2018,@TheQuickRedFoxx,Pelly17888@yandex.com,yandex,,Hotmail,,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,
+11/2/2018,@TheQuickRedFoxx,p.pelly17888@gmail.com,gmail,,Hotmail,,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,
 11/2/2018,@TheQuickRedFoxx,stevevizzulawfirm@gmail.com,gmail,,,,intl.com.zip,,4ec454059e7c794a3a4bf05aee714a013e7eeb0a4f3ba2d9d266a1a58defc696,
 11/2/2018,@TheQuickRedFoxx,teehailove@gmail.com,gmail,,,,inv.zip,,3d4b3aafc537e988c936b12d5856df71614b6a16a8641620d648f2a0098d892f,
 11/2/2018,@TheQuickRedFoxx,fudpages@gmail.com,gmail,,,,invoice.zip,,baa48f90d5eb8eaf889a6371fb857df70cf0931795ec90eadb74b5772050ad5e,
@@ -974,7 +970,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/2/2018,@TheQuickRedFoxx,wb7885598@gmail.com,gmail,,OneDrive,,one1.zip,,ba297bec64efc695ef18d1777f2a7e73ef67babfb1cc8565cedbe2e45b41c275,
 11/2/2018,@TheQuickRedFoxx,benathowen@outlook.com,outlook,,OneDrive,,onedrive.zip,,e5064d6e03176cacf45b56c955fb12dc71306530b45026e087b1e385eb20877a,
 11/2/2018,@TheQuickRedFoxx,nslven88@gmail.com,gmail,,Ourtime,,Ourtimenew.zip,,6d69e3015c549131f65cb5be7ee10a8cf5b3b752dfdf1262b252bcc6b2a83d04,
-11/2/2018,@TheQuickRedFoxx,info.logs.teflon@gmail.com,gmail,,Microsoft,,outlook-mailsnnew000019928839.zip,,ffb3026d9cd86e3f461196b19d35468630afc6fd5dd5c2173c6f8d84d7c7facf,
+11/2/2018,@TheQuickRedFoxx,info.logs.teflon@gmail.com,gmail,,Outlook,,outlook-mailsnnew000019928839.zip,,ffb3026d9cd86e3f461196b19d35468630afc6fd5dd5c2173c6f8d84d7c7facf,
 11/2/2018,@TheQuickRedFoxx,jimjag@gmail.com,gmail,,,,pvrrs.zip,,c61c6e066a1b63c182939faf900ab9fb4dd2aae9def904ea85066a83b82afa79,
 11/2/2018,@TheQuickRedFoxx,alubarikabox2017@gmail.com,gmail,,,,se.zip,,1cc0a7fb3d571accb1aa680b7de3d311ae0c6f16fa77307d124b962080c9e5b0,
 11/2/2018,@TheQuickRedFoxx,cooldjakib@gmail.com,gmail,,,,securemail102.zip,,4c3221f1c92f71df42c549c4c8df467ca8ec3bd26ce1da5c1f5a70a40b57e3f0,
@@ -1008,8 +1004,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/3/2018,@TheQuickRedFoxx,richorse__susu@126.com,126,,,,fals1.zip,,047d46983287ce7b50d7d7cd414c6837dcf78c47352c05989e79b386febdfb32,
 11/3/2018,@TheQuickRedFoxx,salaspriings@gmail.com,gmail,,,hoorgiv.gq,GreenDot.zip,,aff05844baa434433b9d65ef7d6eafbc946d9cc634405c1045bd74f152283d12,http://hoorgiv.gq/linkpage/wesendit_bXN522n2Q72d/GreenDot.zip
 11/3/2018,@TheQuickRedFoxx,salaspriings@gmail.com,gmail,,,services-besson.fr,GreenDot.zip,,aff05844baa434433b9d65ef7d6eafbc946d9cc634405c1045bd74f152283d12,http://services-besson.fr/servvicemail/wesendit_bXN522n2Q72d/GreenDot.zip
-11/3/2018,@TheQuickRedFoxx,Pelly17888@yandex.com,yandex,,Microsoft,seajapamalajufaise.com,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,http://seajapamalajufaise.com/hotmail/HOTMAIL.zip
-11/3/2018,@TheQuickRedFoxx,p.pelly17888@gmail.com,gmail,,Microsoft,seajapamalajufaise.com,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,http://seajapamalajufaise.com/hotmail/HOTMAIL.zip
+11/3/2018,@TheQuickRedFoxx,Pelly17888@yandex.com,yandex,,Hotmail,seajapamalajufaise.com,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,http://seajapamalajufaise.com/hotmail/HOTMAIL.zip
+11/3/2018,@TheQuickRedFoxx,p.pelly17888@gmail.com,gmail,,Hotmail,seajapamalajufaise.com,HOTMAIL.zip,,15520bc1bf825a6bbe15354f1476873f75ddab5c6947d286c4562cbee5df8b65,http://seajapamalajufaise.com/hotmail/HOTMAIL.zip
 11/3/2018,@TheQuickRedFoxx,stevevizzulawfirm@gmail.com,gmail,,,,intl.com.zip,,4ec454059e7c794a3a4bf05aee714a013e7eeb0a4f3ba2d9d266a1a58defc696,
 11/3/2018,@TheQuickRedFoxx,fudpages@gmail.com,gmail,,,,invoice.zip,,baa48f90d5eb8eaf889a6371fb857df70cf0931795ec90eadb74b5772050ad5e,
 11/3/2018,@TheQuickRedFoxx,joshuadespain02@gmail.com,gmail,,,,linked1.zip,,6a5b7379d0e4cde0fc006b3ccb7ad2719edbfc5fd7baf35e37def5ed6a6379b6,
@@ -1047,11 +1043,11 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/4/2018,@TheQuickRedFoxx,blackshop.tools@gmail.com,gmail,,Office365,littleun.tk,ofiice_2018.zip,,30e67f21d143ddae4af315daca8745ab7fcf2f08fa73326f42b620728e375de1,http://littleun.tk/wink/ofiice_2018.zip
 11/4/2018,@TheQuickRedFoxx,douglas.mitchu@gmail.com,gmail,,Office365,littleun.tk,ofiice_2018.zip,,30e67f21d143ddae4af315daca8745ab7fcf2f08fa73326f42b620728e375de1,http://littleun.tk/wink/ofiice_2018.zip
 11/4/2018,@TheQuickRedFoxx,fyzlman@gmail.com,gmail,,Office365,littleun.tk,ofiice_2018.zip,,30e67f21d143ddae4af315daca8745ab7fcf2f08fa73326f42b620728e375de1,http://littleun.tk/wink/ofiice_2018.zip
-11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Microsoft,littleun.ga,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.ga/scott/hotmail.zip
-11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Microsoft,littleun.ga,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.ga/jah/hotmail.zip
-11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Microsoft,littleun.ml,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.ml/bless/hotmail.zip
-11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Microsoft,littleun.tk,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.tk/sincere/hotmail.zip
-11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Microsoft,premiumtec.tk,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://premiumtec.tk/felixbos/hotmail.zip
+11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Hotmail,littleun.ga,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.ga/scott/hotmail.zip
+11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Hotmail,littleun.ga,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.ga/jah/hotmail.zip
+11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Hotmail,littleun.ml,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.ml/bless/hotmail.zip
+11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Hotmail,littleun.tk,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://littleun.tk/sincere/hotmail.zip
+11/4/2018,@TheQuickRedFoxx,bashari.mohammed.gumel@gmail.com,gmail,,Hotmail,premiumtec.tk,hotmail.zip,,e102b6823af2a0dba9332510db7e3406bf696b2e41521da563fd84cab37d902e,http://premiumtec.tk/felixbos/hotmail.zip
 11/5/2018,https://twitter.com/neonprimetime/status/1059518369513291778,service01234958@gmail.com,gmail,my_email.php,SharePoint,service-herold.info,SA.zip,,,
 11/5/2018,https://twitter.com/neonprimetime/status/1059518369513291778,service01234958@gmail.com,gmail,my_email.php,SharePoint,service-herold.info,SH.zip,,,
 11/5/2018,https://twitter.com/neonprimetime/status/1059518369513291778,service01234958@gmail.com,gmail,my_email.php,SharePoint,service-herold.info,SM.zip,,,
@@ -1162,8 +1158,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/6/2018,@TheQuickRedFoxx,g.2sulukdze@gmail.com,gmail,,,,NAVER.zip,,5317c12f403690e0543df98685d722e5aadcfc6fd02b174cfd77f91b2d61893a,
 11/6/2018,@TheQuickRedFoxx,noskybrown213@gmail.com,gmail,,Adobe,,newadobe.zip,,40c11dc234b475204db62b2be870f32629235d4a7a557b38a432b85363cd1828,
 11/6/2018,@TheQuickRedFoxx,stanley2igwe@gmail.com,gmail,,,,NewUpgradescript.zip,,9a318a07da6edb1c18e7177bbb061d1f29b4b20255c2446a2f7e3359f79a19fb,
-11/6/2018,@TheQuickRedFoxx,cleansweep1960@hotmail.com,hotmail,,Microsoft,,Nhotmail.zip,,b3fe6b364ab2afa6a60250e6902577c755f5b58fa54ea26ecbf1b802f50ce66f,
-11/6/2018,@TheQuickRedFoxx,newlogs123@gmail.com,gmail,,Microsoft,,Nhotmail.zip,,b3fe6b364ab2afa6a60250e6902577c755f5b58fa54ea26ecbf1b802f50ce66f,
+11/6/2018,@TheQuickRedFoxx,cleansweep1960@hotmail.com,hotmail,,Hotmail,,Nhotmail.zip,,b3fe6b364ab2afa6a60250e6902577c755f5b58fa54ea26ecbf1b802f50ce66f,
+11/6/2018,@TheQuickRedFoxx,newlogs123@gmail.com,gmail,,Hotmail,,Nhotmail.zip,,b3fe6b364ab2afa6a60250e6902577c755f5b58fa54ea26ecbf1b802f50ce66f,
 11/6/2018,@TheQuickRedFoxx,mkhillsga@gmail.com,gmail,,Office365,,office.m.zip,,c70d381b27fda957cf07a746159365abf3f7f7d7be6ba50b79d3b48000890b25,
 11/6/2018,@TheQuickRedFoxx,fndonati9@gmail.com,gmail,,Office365,,office1.zip,,74de5d2276d089ab358924d20a913c4e08e70e5c45878d7550c263a413ef7ffc,
 11/6/2018,@TheQuickRedFoxx,fndonati9@gmail.com,gmail,,Office365,,officetare.zip,,74de5d2276d089ab358924d20a913c4e08e70e5c45878d7550c263a413ef7ffc,
@@ -1181,8 +1177,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/6/2018,@TheQuickRedFoxx,boxking48@gmail.com,gmail,,Ourtime,,Ourtime17%20(5).zip,,abbe4d656a2fc21447c82dbecafbbfcdd6e052d0c3df3a939461ef51468f10c4,
 11/6/2018,@TheQuickRedFoxx,v.o.wire01@gmail.com,gmail,,Ourtime,,Ourtime17.zip,,2a7cf25a4bed928c93c78f286668c8171149f934ab5826f91c9ad984e0291349,
 11/6/2018,@TheQuickRedFoxx,karlbaer2020@gmail.com,gmail,,Ourtime,,ourtimet.zip,,44827f7fd8c4c8725103200e69ed0cd07abf7612ac042ffa344d998f2990a7c9,
-11/6/2018,@TheQuickRedFoxx,hamed.abj@mail.ru,mail,,Microsoft,gyswee.com,OUTLOOOKNEW.zip,,ae53b1f7ad4d043bd038647308f6f629d8326571ef8244c058006f021dc892ce,http://gyswee.com/OUTLOOOKNEW.zip
-11/6/2018,@TheQuickRedFoxx,wiretransfer1990@gmail.com,gmail,,Microsoft,gyswee.com,OUTLOOOKNEW.zip,,ae53b1f7ad4d043bd038647308f6f629d8326571ef8244c058006f021dc892ce,http://gyswee.com/OUTLOOOKNEW.zip
+11/6/2018,@TheQuickRedFoxx,hamed.abj@mail.ru,mail.ru,,Outlook,gyswee.com,OUTLOOOKNEW.zip,,ae53b1f7ad4d043bd038647308f6f629d8326571ef8244c058006f021dc892ce,http://gyswee.com/OUTLOOOKNEW.zip
+11/6/2018,@TheQuickRedFoxx,wiretransfer1990@gmail.com,gmail,,Outlook,gyswee.com,OUTLOOOKNEW.zip,,ae53b1f7ad4d043bd038647308f6f629d8326571ef8244c058006f021dc892ce,http://gyswee.com/OUTLOOOKNEW.zip
 11/6/2018,@TheQuickRedFoxx,customltdnigeria@gmail.com,gmail,,Ourtime,,ouurt.zip,,60fbeb20151b404f33c004b6d86b518f84892f2c0ff8887191b4bc49fe284e27,
 11/6/2018,@TheQuickRedFoxx,boxr878@gmail.com,gmail,,Ourtime,,php.ourtiime%202.zip,,671d0de4abcb90f0f2beff854680ea51b6b741b2be4b78345af7ee4d055be09b,
 11/6/2018,@TheQuickRedFoxx,ddonwise100@yandex.com,yandex,,Rackspace,,rackspace.zip,,42ded6d720b415e6297bb05959f767ccea52d53759839ffb9aaeadc85f87d9eb,
@@ -1241,9 +1237,6 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/8/2018,@TheQuickRedFoxx,rezzultbox1@gmail.com,gmail,,Office365,gtkiinfo.com,OFFICE.zip,,5a4a50fc91f7f9d4ce5cc0c3f0e6a769a515a6df8415ec1d572fd5b762415ce8,http://gtkiinfo.com/New/OFFICE.zip
 11/8/2018,@TheQuickRedFoxx,commjohncampbell@gmail.com,gmail,,,vertilio.desi,Private%20Online%20PDF.zip,,30bea611abd1e6b4b4b01f66dd3a180c831d59f1c8b16d74d8eaaf9adf96b257,http://vertilio.desi/Private%20Online%20PDF.zip
 11/8/2018,@TheQuickRedFoxx,tacomrcreator@gmail.com,gmail,,,nahuisk.com,share.zip,,ab826e30291b711192320642e92f5342d22095a9d4dfc4c960414a63aee4aebc,http://nahuisk.com/ggg/hhh/share.zip
-11/8/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,,nahuisk.com,share.zip,,ab826e30291b711192320642e92f5342d22095a9d4dfc4c960414a63aee4aebc,http://nahuisk.com/aaa/bbb/share.zip
-11/8/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,,nahuisk.com,share.zip,,ab826e30291b711192320642e92f5342d22095a9d4dfc4c960414a63aee4aebc,http://nahuisk.com/ccc/ddd/share.zip
-11/8/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,,nahuisk.com,share.zip,,ab826e30291b711192320642e92f5342d22095a9d4dfc4c960414a63aee4aebc,http://nahuisk.com/eee/fff/share.zip
 11/8/2018,@TheQuickRedFoxx,basil.frank20@gmail.com,gmail,,Yahoo,aminopiruate.desi,yahoo-2.zip,,a3c9b2eb3858fbe0fcf892363674721f88112535c800c0f501b4ece5897c631f,http://aminopiruate.desi/acc-update/yahoo-2.zip
 11/9/2018,@TheQuickRedFoxx,zzxxccah22@gmail.com,gmail,,,gb667u76.tk,1.zip,,c825127a25e1ccc9a669a6487400222e4f398264be811b313748d0c0716e4749,http://gb667u76.tk/1.zip
 11/9/2018,@TheQuickRedFoxx,henrypepe09@gmail.com,gmail,,Docusign,b6y76.ga,Docusign%20_1.zip,,650b5979f0829f32e54047b54d6735ce2231ec8cf803bf4cf0e9d38154607fb4,http://b6y76.ga/uu/Docusign%20_1.zip
@@ -1257,7 +1250,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/9/2018,@TheQuickRedFoxx,yampishresult@gmail.com,gmail,,,iajksch.usa.cc,micro.zip,,2be2d357824f93b9b95ea266ae31ba9eec92c8793ade398aa12006d9316cbd12,http://iajksch.usa.cc/off/micro.zip
 11/9/2018,@TheQuickRedFoxx,yampishresult@gmail.com,gmail,,,jacuziio.igg.biz,micro.zip,,2be2d357824f93b9b95ea266ae31ba9eec92c8793ade398aa12006d9316cbd12,http://jacuziio.igg.biz/kum/micro.zip
 11/9/2018,@TheQuickRedFoxx,prismbinarytradingllp@gmail.com,gmail,,DHLUS,ashiqio1.usa.cc,my%20DHL.zip,,85064d3cd98eb271102b38091a3c30b4c77091c66da30793d6da8e798c8188bc,http://ashiqio1.usa.cc/my%20DHL.zip
-11/9/2018,@TheQuickRedFoxx,exty5000@gmail.com,gmail,,Microsoft,40togo.usa.cc,My%20Outlook.zip,,b3acf4fdd49653fa7093e2610c90eaf66a18a8f97f84e892c74c9f13ed02ff30,http://40togo.usa.cc/My%20Outlook.zip
+11/9/2018,@TheQuickRedFoxx,exty5000@gmail.com,gmail,,Outlook,40togo.usa.cc,My%20Outlook.zip,,b3acf4fdd49653fa7093e2610c90eaf66a18a8f97f84e892c74c9f13ed02ff30,http://40togo.usa.cc/My%20Outlook.zip
 11/9/2018,@TheQuickRedFoxx,james.kingin01@gmail.com,gmail,,OneDrive,cokestudio.igg.biz,New%20onedrive.zip,,82f9695d789b69970d3be7bc5316fcd17eaca118fb0dfe692d9b97e31d6b8527,http://cokestudio.igg.biz/pck/New%20onedrive.zip
 11/9/2018,@TheQuickRedFoxx,james.kingin01@gmail.com,gmail,,OneDrive,cokestudio.igg.biz,New%20onedrive.zip,,82f9695d789b69970d3be7bc5316fcd17eaca118fb0dfe692d9b97e31d6b8527,http://cokestudio.igg.biz/rrp/New%20onedrive.zip
 11/9/2018,@TheQuickRedFoxx,james.kingin01@gmail.com,gmail,,OneDrive,cokestudio.igg.biz,New%20onedrive.zip,,82f9695d789b69970d3be7bc5316fcd17eaca118fb0dfe692d9b97e31d6b8527,http://cokestudio.igg.biz/klk.o/New%20onedrive.zip
@@ -1279,7 +1272,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/9/2018,@TheQuickRedFoxx,info.contactsss01@gmail.com,gmail,,,gb667u76.tk,Review.zip,,cb43a17c9312e03b16f8bdfa54673eb6fe69994168b5754480253701592edb2b,http://gb667u76.tk/review/Review.zip
 11/9/2018,@TheQuickRedFoxx,chevyu930@gmail.com,gmail,,Zoosk,panipila.usa.cc,zoosk123.zip,,4db756392d03da0c7c83d351de0dce5fec2888c2b4b6829e2d3b75c95826e443,http://panipila.usa.cc/zoosk123.zip
 11/10/2018,https://twitter.com/IpNigh/status/1061139944620613632,mohand.mohamed2121@gmail.com,gmail,,BOA,vqtraertzwq.org,,,,
-11/10/2018,https://twitter.com/IpNigh/status/1061299557991092230,am91234567890@gmail.com,gmail,,PaypalInfoSec,ttudri.com,,,,
+11/10/2018,https://twitter.com/IpNigh/status/1061299557991092230,am91234567890@gmail.com,gmail,,Paypal,ttudri.com,,,,
 11/11/2018,https://twitter.com/neonprimetime/status/1061636456312172544,vanessalous52@gmail.com,gmail,,Match,callsaul.ml,bayo.zip,,,http://callsaul.ml/Match.com/bayo.zip
 11/11/2018,https://twitter.com/neonprimetime/status/1061766883647651840,heaidoffice@gmail.com,gmail,,Office365,snap99studio.com,microsoft.zip,,2e8899984388ac41d76b3ae8e34ef1aa,http://snap99studio.com/file/microsoft.zip
 11/11/2018,https://twitter.com/neonprimetime/status/1061822897369550848,levels19001@gmail.com,gmail,,Office365,www.centralamericanlogistics.com,upstracking.zip,TheLords 2018,acefb95fa92b6cc868f17cf229a8d8b1,http://www.centralamericanlogistics.com/upstracking.zip
@@ -1287,7 +1280,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/12/2018,https://twitter.com/IpNigh/status/1062038217430577152,hemtlanker@gmail.com,gmail,,Capitec,www.windproofparaplu.nl,,,,
 11/12/2018,https://twitter.com/neonprimetime/status/1062161564525125632,keniboy37@gmail.com,gmail,mail.php,Office365,ptks.in,doc2018.zip,,20fac20add1d8a06c16efd9f37c51a67,http://ptks.in/bbf/doc2018.zip
 11/12/2018,https://twitter.com/neonprimetime/status/1062183398867898368,applemichael800@gmail.com,gmail,,OneDrive,360nutrition.net,admin.zip,,8863761a3019ad4b136e84bb4ec392c5,http://360nutrition.net/filemanager/admin.zip
-11/12/2018,https://twitter.com/IpNigh/status/1061965249337835522,mozayltd@gmail.com,gmail,,PaypalInfoSec,www.innenraume.com,,,,
+11/12/2018,https://twitter.com/IpNigh/status/1061965249337835522,mozayltd@gmail.com,gmail,,Paypal,www.innenraume.com,,,,
 11/12/2018,https://twitter.com/neonprimetime/status/1062140937638424576,aoljnr001@gmail.com,gmail,,Yahoo,kenwoodplace.cf,1656a7ca9ae66b54b3447aa514ee751f1541694884%20(1).zip,Hacked by Pedro,,http://kenwoodplace.cf/a/1656a7ca9ae66b54b3447aa514ee751f1541694884%20(1).zip
 11/12/2018,https://twitter.com/neonprimetime/status/1062020168476442626,zzxxccah22@gmail.com,gmail,passportx.php,,,,,,
 11/12/2018,https://twitter.com/neonprimetime/status/1062020168476442626,cleanestresults@gmail.com,gmail,connectID.php,,,,,,
@@ -1309,10 +1302,10 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/12/2018,https://twitter.com/neonprimetime/status/1062025483414581248,andyjames009@yandex.com,yandex,geemail.php,,,,,,
 11/13/2018,https://twitter.com/neonprimetime/status/1062333118500294659,actionis@action-is.com,action-is,,,199.192.27.122,Supply.zip,FUDPAGES[.]RU,55204d6305dc157b8c77ab6b651f4ce8,http://199.192.27.122/~kuwaitincx/Supply.zip
 11/13/2018,https://twitter.com/neonprimetime/status/1062284815490301953,nouoman.sa33d@gmail.com,gmail,,ATT,historical.tk,att (1).zip,,97e2f6beb8e266e9df52c3a1ab2ffbff,http://historical.tk/idowu/att%20(1).zip
-11/13/2018,https://twitter.com/neonprimetime/status/1062338768890462213,ikookady2@gmail.com,gmail,,PaypalInfoSec,marhirtophoto.com,maroc.zip,SHADOW Z118,4a208650751abf359c0e8f4bcca31ef7,http://marhirtophoto.com/maroc.zip
+11/13/2018,https://twitter.com/neonprimetime/status/1062338768890462213,ikookady2@gmail.com,gmail,,Paypal,marhirtophoto.com,maroc.zip,SHADOW Z118,4a208650751abf359c0e8f4bcca31ef7,http://marhirtophoto.com/maroc.zip
 11/13/2018,https://twitter.com/neonprimetime/status/1062333118500294659,palm08az@gmail.com,gmail,,,199.192.27.122,Supply.zip,FUDPAGES[.]RU,55204d6305dc157b8c77ab6b651f4ce8,http://199.192.27.122/~kuwaitincx/Supply.zip
 11/13/2018,https://twitter.com/neonprimetime/status/1062328572789121025,zackspam@outlook.fr,outlook.fr,,Fibank,delkie.com,fibanzk.zip,,10b87dfd4f47550a46fdb74872220b6c,http://delkie.com/wp-includes/js/fibanzk.zip
-11/13/2018,https://twitter.com/neonprimetime/status/1062338768890462213,ikookady2@yahoo.com,yahoo,,PaypalInfoSec,marhirtophoto.com,maroc.zip,SHADOW Z118,,http://marhirtophoto.com/maroc.zip
+11/13/2018,https://twitter.com/neonprimetime/status/1062338768890462213,ikookady2@yahoo.com,yahoo,,Paypal,marhirtophoto.com,maroc.zip,SHADOW Z118,,http://marhirtophoto.com/maroc.zip
 11/14/2018,https://twitter.com/neonprimetime/status/1062882134405328896,officemoney148@gmail.com,gmail,,Docusign,precautions.cf,business.zip,,b22c824f7a1460f7de0163c7c6197da7,http://precautions.cf/bussiness.zip
 11/14/2018,https://twitter.com/neonprimetime/status/1062882134405328896,boxoffice179@gmail.com,gmail,,Docusign,precautions.cf,investment.zip,,b4caf203ddf5ca92357f03f1586b37c4,http://precautions.cf/investment.zip
 11/14/2018,https://twitter.com/neonprimetime/status/1062882134405328896,boxoffice794@gmail.com,gmail,,Docusign,precautions.cf,november.zip,,4adf79e85a5c72f80fa8c90ca785c0e0,http://precautions.cf/november.zip
@@ -1337,7 +1330,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/17/2018,https://twitter.com/neonprimetime/status/1063874273868156930,gloryfirmltd@gmail.com,gmail,,DropBox,perthdesigngroup.com.au,drpbx.zip,Created BY unknown,,http://perthdesigngroup.com.au/file1/drpbx.zip
 11/17/2018,https://twitter.com/IpNigh/status/1063873618311069696,wildt00l@gmail.com,gmail,,,www.belvc.by,,,,
 11/17/2018,https://twitter.com/IpNigh/status/1063873618311069696,madstoresk@yahoo.com,yahoo,,,www.belvc.by,,,,
-11/18/2018,https://twitter.com/neonprimetime/status/1064372252379148289,frdkingston@gmail.com,gmail,,Microsoft,arlauerg.xyz,office365.zip,,406065f2928476ad18ef83dbce385a0d,
+11/18/2018,https://twitter.com/neonprimetime/status/1064372252379148289,frdkingston@gmail.com,gmail,,Office365,arlauerg.xyz,office365.zip,,406065f2928476ad18ef83dbce385a0d,
 11/18/2018,https://twitter.com/neonprimetime/status/1064290301559349248,mozayltd@gmail.com,gmail,,Stripe,www.bdsthudo.com,Stripe.zip,,,http://www.bdsthudo.com/css/Stripe.zip
 11/19/2018,https://twitter.com/neonprimetime/status/1064729898990927873,lukerecruit@gmail.com,gmail,,Adobe,jjohnson10.com,adobeCom1.zip,,a2305f18639637500d046b45a61aff1c,http://jjohnson10.com/pdf/adobeCom1.zip
 11/19/2018,https://twitter.com/neonprimetime/status/1064728045586657280,resultsboxx@gmail.com,gmail,,Office365,csaasq.com,office365real1.zip,,fcb7cd0c09ed235d25a68e7b5296077d,http://csaasq.com/office365real1.zip
@@ -1373,7 +1366,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/21/2018,https://twitter.com/neonprimetime/status/1065467052956233728,mask.us2016@yandex.com,yandex,mask1.php,BOA,na2tionlus.com,BanOfAmerca.zip,,,http://na2tionlus.com/BanOfAmerca.zip
 11/22/2018,https://twitter.com/neonprimetime/status/1065661710508453889,foroldman@gmail.com,gmail,x1.php,Apple,divejal.com,app1.zip,C0D3D By X-D3V!L,,http://divejal.com/wp-includes/app1.zip
 11/22/2018,https://twitter.com/neonprimetime/status/1065602311840587776,chrismason601@gmail.com,gmail,process.php,DropBox,bimatic.com.lb,star.zip,,2ad577caad2855983b49fa4b5034cf74,http://bimatic.com.lb/wp/star.zip
-11/22/2018,https://twitter.com/neonprimetime/status/1065813308660477953,careerjobconsults@gmail.com,gmail,connect.php,Microsoft,194.36.173.194,Excel file.zip,Created By Jolindaprince,ec67a3963152680499f1fb2b88bf111c,https://194.36.173.194/xmasscash/Excel%20file.zip
+11/22/2018,https://twitter.com/neonprimetime/status/1065813308660477953,careerjobconsults@gmail.com,gmail,connect.php,MsExcel,194.36.173.194,Excel file.zip,Created By Jolindaprince,ec67a3963152680499f1fb2b88bf111c,https://194.36.173.194/xmasscash/Excel%20file.zip
 11/22/2018,https://twitter.com/neonprimetime/status/1065818196035407872,tacomrcreator@gmail.com,gmail,throwit.php,Office365,volumecandles.com,share.zip,Jamonte,0282a6326416f0b4b14208a3ca7c0d4e,http://volumecandles.com/eee/fff/share.zip
 11/22/2018,https://twitter.com/neonprimetime/status/1065823508687671297,jaquezeerecords@gmail.com,gmail,npp.php,,variety.ca,ourtime.zip,Signed by zzz,2b6b344ebd10024d536cac46f282928a,https://variety.ca/login/ourtime.zip
 11/22/2018,https://twitter.com/neonprimetime/status/1065825306941038593,darknesstn28@gmail.com,gmail,email.php,,ariellui.com,netf.zip,,e1c8aba8a2388cd4ebdbc3ed0a03cb78,https://ariellui.com/netf.zip
@@ -1389,7 +1382,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/23/2018,https://twitter.com/neonprimetime/status/1066031129512329217,iremainfemi911@gmail.com,gmail,os.php,Docusign,zigota.gq,DocuSign-Private.zip,By 4gb4,c2243dc618934683ab21daeedf355d93,http://zigota.gq/config.quotas/DocuSign-Private.zip
 11/23/2018,https://twitter.com/neonprimetime/status/1066140353714167808,ricklloyd177@gmail.com,gmail,remail.php,DropBox,boarddeveloper.com,AA.zip,,,http://boarddeveloper.com/wp-includes/js/AA.zip
 11/23/2018,https://twitter.com/nullcookies/status/1066104006790078464?s=21,readaykhan84@gmail.com,gmail,,Facebook,0freefacebook.weebly.com,,,,
-11/23/2018,https://twitter.com/neonprimetime/status/1066096353070247936,sjchambers6@gmail.com,gmail,email.php,LunoMoney,despitedetails.com,Luno.zip,,445161323610ac366a0c28c42b4a46e5,http://despitedetails.com/cibcfcibnew.zip
+11/23/2018,https://twitter.com/neonprimetime/status/1066096353070247936,sjchambers6@gmail.com,gmail,email.php,Luno,despitedetails.com,Luno.zip,,445161323610ac366a0c28c42b4a46e5,http://despitedetails.com/cibcfcibnew.zip
 11/23/2018,https://twitter.com/neonprimetime/status/1066187223178063873,slimclasss77@gmail.com,gmail,throwit.php,SharePoint,sntsportstore.icu,sharepoint.zip,,aeeedfd02d8cb3c0050343a9c6c7b08c,https://sntsportstore.icu/grobbel-paymentportal/sharepoint.zip
 11/23/2018,https://twitter.com/neonprimetime/status/1066083619792461825,debrcex@gmail.com,gmail,LOGIN2.php,WellsFargo,gadaseschools.com,onedrive.zip,Created BY Machine,,http://gadaseschools.com/onedrive.zip
 11/23/2018,https://twitter.com/neonprimetime/status/1065941655189168128,jeanblouin1995@gmail.com,gmail,processing.php,,classtransparent.com,6e19e5d52f18d4d36cc6b102d4b04bad1542846292.zip,,60569c286ada90aa68c6728a0d1e963a,https://classtransparent.com/Ghl/6e19e5d52f18d4d36cc6b102d4b04bad1542846292.zip
@@ -1408,7 +1401,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/25/2018,https://twitter.com/leunammejii/status/1066780973986181123,howardcarlo@yandex.com,yandex,,,appleid.apple.com-manage-account-cancel.mobille-legend.business,03 (SFILE.MOBI).zip,,13694a494305060effe37a11205ebd02,
 11/25/2018,https://twitter.com/leunammejii/status/1066780973986181123,howardcarlo@yandex.com,yandex,,,appleid.apple.com-manage-account-cancel.mobille-legend.info,03 (SFILE.MOBI).zip,,13694a494305060effe37a11205ebd02,
 11/25/2018,https://twitter.com/neonprimetime/status/1066901755605204992,dnovanton@gmail.com,gmail,111.php,,rbcmontgomery.com,PDF.zip,,b0fbe7d9d2b7eb21944e9233d97811b0,http://rbcmontgomery.com/hrdepartmentpeoria/PDF.zip
-11/26/2018,https://twitter.com/dave_daves/status/1067099634248704000,pluspointgp@gmail,com,,,verificationservice.cf,,,,
+11/26/2018,https://twitter.com/dave_daves/status/1067099634248704000,pluspointgp@gmail.com,gmail,,,verificationservice.cf,,,,
 11/26/2018,https://twitter.com/neonprimetime/status/1067245182263967745,aaxxxblert@gmail.com,gmail,verify.php,ATT,foxonedigital.com,ATT.zip,Created by LEGZY,33d5ff6425e64712a855f86edbcd6e44,http://foxonedigital.com/wp-content/uploads/2018/ATT.zip
 11/26/2018,https://twitter.com/neonprimetime/status/1067256556511813633,crimelorddunga@gmail.com,gmail,Team.php,ATT,www.payqalooo.ooo,attfire.zip,Hacked by Opa Dammy,,https://www.payqalooo.ooo/ken/attfire.zip
 11/26/2018,https://twitter.com/neonprimetime/status/1067043357891940352,toolsleeds@gmal.com,gmail,submit.php,DropBox,paracompras.com,dpbx.zip,by PeeLee,c29797decb8eb827f782c3354a1811e5,http://paracompras.com/AAAAEEEE/dpbx.zip
@@ -1419,7 +1412,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/27/2018,https://twitter.com/neonprimetime/status/1067607450222804993,murphypaul000@gmail.com,gmail,other.php,Office365,orkujnf.club,officelite2018.zip,Created by M3RC1,9e8214552fcb05a2eb105d8f84727e33,https://orkujnf.club/eda/officelite2018.zip
 11/27/2018,https://twitter.com/neonprimetime/status/1067614640627171329,casualonakoya@gmail.com,gmail,none.php,,sofonica.com,Renamed.zip,,,https://sofonica.com/reconnect/Renamed.zip
 11/28/2018,https://twitter.com/neonprimetime/status/1067985546855833600,crimelorddunga@gmail.com,gmail,Team.php,ATT,benefits.aa.am,at.zip,Hacked by Opa Dammy,ea7054165aede0e149b96b71a1719ee3,http://benefits.aa.am/lax/at.zip
-11/28/2018,https://twitter.com/neonprimetime/status/1067769912125464576,ayahelnayk@gmail.com,gmail,Your-email.php,PaypalInfoSec,stomatolgiegalati.ro,pist.zip,By Zetas Oujdi,8812c1e55f9a6b0163d37b789d1c553e,http://stomatologiegalati.ro/libraries/domit/pist.zip
+11/28/2018,https://twitter.com/neonprimetime/status/1067769912125464576,ayahelnayk@gmail.com,gmail,Your-email.php,Paypal,stomatolgiegalati.ro,pist.zip,By Zetas Oujdi,8812c1e55f9a6b0163d37b789d1c553e,http://stomatologiegalati.ro/libraries/domit/pist.zip
 11/28/2018,https://twitter.com/neonprimetime/status/1068004952700841984,barrondekhalif@gmail.com,gmail,login.php,Yahoo,brightservices.com.pk,yahoo.zip,created by melor,362f35f43eaf29245ed49a3a55ba1300,http://brightservices.com.pk/yahoo.zip
 11/28/2018,https://twitter.com/neonprimetime/status/1068007890202562560,drizzymuntidrake@gmail.com,gmail,none.php,,goddywer.desi,UPG.zip,,ad18aa9150e0fb5cb9fbb4c5af8ff3e2,https://goddywer.desi/js/UPG.zip
 11/28/2018,https://twitter.com/neonprimetime/status/1068009803392389120,notime744@zoho.com,zoho,Team.php,ATT,www.manangonline.com,at _1.zip,Hacked by Opa Dammy,a94d0dd7976df503cf073f5022ffe26e,https://www.manangonline.com/att/at%20_1.zip
@@ -1433,7 +1426,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/29/2018,https://twitter.com/ActorExpose/status/1068158593579532288,michaelman1302@gmail.com,gmail,,,asweshift.com,,,,
 11/29/2018,https://twitter.com/ActorExpose/status/1068155132385419264,itskelvinking2010@gmail.com,gmail,,,survivaloutdoors.uk,,,,
 11/29/2018,https://twitter.com/ActorExpose/status/1068161646084923393,user_maintanance912566@outlook.com,outlook,,,basf-se.ml,,,,
-11/30/2018,https://twitter.com/neonprimetime/status/1068398900401369088,aj2047691@gmail.com,gmail,data.php,OurTimeDating,maskprotect.ga,ourtt.zip,,b5ec24a406f80d6401b2a251b4a861d8,http://maskprotect.ga/message/ourtt.zip
+11/30/2018,https://twitter.com/neonprimetime/status/1068398900401369088,aj2047691@gmail.com,gmail,data.php,Ourtime,maskprotect.ga,ourtt.zip,,b5ec24a406f80d6401b2a251b4a861d8,http://maskprotect.ga/message/ourtt.zip
 11/30/2018,https://twitter.com/Techhelplistcom/status/1068381032762785794,donezeifeka@gmail.com,gmail,contact.php,,verade.ga,bankoffinance.zip,MR FRESH,9040bf83e152c0978e369dcfb08fe824,http://verade.ga/bankoffinance.zip
 11/30/2018,https://twitter.com/Techhelplistcom/status/1068381032762785794,obenscross@gmail.com,gmail,index.php,,verade.ga,bankoffinance.zip,Created by F,9040bf83e152c0978e369dcfb08fe824,http://verade.ga/bankoffinance.zip
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,payments_processors@yahoo.com,yahoo,login.php,,agreatbartender.com,Made-In-China.com.zip,Created By GMT,4ED3117F616FB81070BA7A2B6B6D64FE,
@@ -1446,7 +1439,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,ahmedwire2015@gmail.com,gmail,need1.php,OneDrive,fhweuir.com,OneDriveb.zip,TrapKing,B4A665BB2ECE5B957F8284ED5CD413AA,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,xoxobillionaire@gmail.com,gmail,next2.php,,fmchr.in,trustarenergy.zip,,906768FEDE2CF9B56958493DF90F77D0,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,jidemarvel1313@gmail.com,gmail,i.php,,haralayya.com,ME.zip,Created BY MOET,FA8693D93C9DFC6212D97169B5407FA8,
-11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,douglas.mitchu@gmail.com,gmail,check.php,Microsoft,hiuwret.com,hotmail.zip,EDIT BY DAR,0A60E5F762C7E67F6161A8AF6F7607E8,
+11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,douglas.mitchu@gmail.com,gmail,check.php,Hotmail,hiuwret.com,hotmail.zip,EDIT BY DAR,0A60E5F762C7E67F6161A8AF6F7607E8,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,bcars373@gmail.com,gmail,OT.php,,investmentcclss.com,00.zip,,578DDE9E3176948FEB90DD5CB2D8C49E,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,ifeanyiofodile2018@yahoo.com,yahoo,log.php,Yahoo,mahoganyusa.com,Yahoo.zip,,23A658C89FABE25AE68ECC5873023343,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,aniekan.donking3@gmail.com,gmail,result.php,Yahoo,maskprotect.gq,Yahoobrandy.zip,Created BY Aniel,6598D56F578DAEAC290881A1A996AB7F,
@@ -1465,7 +1458,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,loso.loso4pf@gmail.com,gmail,enteryouremailhere.php,,uweiro.com,Gouv.taxe.zip,,2CD2E05CCDB1014520CAFD19C2E86C07,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,donezeifeka@gmail.com,gmail,contactus.php,,verade.ga,bankoffinance.zip,MR Fresh,9040BF83E152C0978E369DCFB08FE824,
 11/30/2018,https://twitter.com/neonprimetime/status/1068594975238250499,freshnattyresultbox2018@gmail.com,gmail,email.php,OneDrive,www.glimmering.ca,latest-onedrive.zip,,E342934E40A70A9464794D6651043731,
-11/30/2018,https://twitter.com/PhishingAi/status/1068532006567534594,denisesteel6@gmail.com,gmail,,apple.disastermasters.com,Apple.zip,,,,
+11/30/2018,https://twitter.com/PhishingAi/status/1068532006567534594,denisesteel6@gmail.com,gmail,,Apple,apple.disastermasters.com,Apple.zip,,,
 11/30/2018,https://twitter.com/leunammejii/status/1068598436952449025,mumunitaly@yandex.com,yandex,,Apple,sign-in.appleid.my666555suport.com,emak.zip,,e68d4da337ae27498ce442f7ed258f25,
 11/30/2018,https://twitter.com/leunammejii/status/1068598440391774208,nonoazoulay3@gmail.com,gmail,,Apple,unlimitedaccountinfo.tk.hyun-security.mixh.jp,workhard.zip,,f68fde4234fee579c3df56f67d4e1f99,
 11/30/2018,https://twitter.com/leunammejii/status/1068727044660445190,bayremking0@gmail.com,gmail,,PayPal,security-account.adempar.com.br,Tornido-Edited-By-D.Dixon.zip,Edited By D.Dixon,10b0d1f49e0fdeb401ab7af0a711a0b3,
@@ -1492,9 +1485,9 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,busybrain9999@gmail.com,gmail,index.php,,chesconews.net,bio.zip,,e149b23713ef22b67016eeabd3b8b573,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,edwardsm166@gmail.com,gmail,index.php,,clotureetrampeeb.com,loginoff.zip,,71addae3475ea6c14e5e7ea57428ecf0,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,thomasphart11@gmail.com,gmail,verification.php,,dellhping.cf,vp.zip,,a61c18c17f661c68124e67f928acfa6e,
-12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,abdulmalik1166@gmail.com,gmail,,enkennedy.com,phone.zip,auth.php,,c4eca26b228b5fb7cb12b2d1a6e7f99c,
+12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,abdulmalik1166@gmail.com,gmail,auth.php,,enkennedy.com,phone.zip,,c4eca26b228b5fb7cb12b2d1a6e7f99c,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,mr3aslya777@gmail.com,gmail,Email.php,BOA,fguyert.com,Bofa_Remote.zip,,f661f16cc1138472fd3d6e30170e402f,
-12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,mrmatthewpat@gmail.com,gmail,Logon.php,DHL,filipinamd.com,DHL33.zip,Created BY Mr Matthew Pat (skype: Mr Matthew Pat),541e8321780b03658fe9f183be681815,
+12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,mrmatthewpat@gmail.com,gmail,Logon.php,DHLUS,filipinamd.com,DHL33.zip,Created BY Mr Matthew Pat (skype: Mr Matthew Pat),541e8321780b03658fe9f183be681815,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,swaelee180@gmail.com,gmail,forward.php,,filipinamd.com,Late.zip,,e45fdaa907260bb33d84bf621c581da5,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,swaelee180@gmail.com,gmail,mail.php,,filipinamd.com,wt.zip,,a73183dfb04743704bb60943c0756674,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,midofmt1@protonmail.com,protonmail,move.php,,fy.com.sa,ne.zip,,d305948454e9af6bcefbc65058fbf18b,
@@ -1506,9 +1499,9 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,wilson.martyn0@gmail.com,gmail,verification.php,,jionasee.desi,WilsonInc.zip,,fbd36313ad48c27de4b755569074e9e4,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,aniekan.donking3@gmail.com,gmail,result.php,Yahoo,maskprotect.gq,Yahoobrandy.zip,Created BY Aniel,6598d56f578daeac290881a1a996ab7f,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,thomasphart11@gmail.com,gmail,verification.php,,pepdrinda.tk,vp.zip,,a61c18c17f661c68124e67f928acfa6e,
-12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,chamehchameh@gmail.com,gmail,Secinfo.php,DHL,retire-today.us,AUtoDHL.zip,Created BY Mr-Anobs in 2017 (skype:ethan-miles),ea4de5ff8faf6b05257a1a341a60a30a,
+12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,chamehchameh@gmail.com,gmail,Secinfo.php,DHLUS,retire-today.us,AUtoDHL.zip,Created BY Mr-Anobs in 2017 (skype:ethan-miles),ea4de5ff8faf6b05257a1a341a60a30a,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,wangaudioquest.com@gmail.com,gmail,post1.php,,retire-today.us,cn%20countin.zip,RMG,e58390fa30ed5ce19e57415e2762b090,
-12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,cleanestresults@gmail.com,gmail,login.php,DHL,retire-today.us,DHL2.zip,Created BY v3nZa,49ceae355b065103709022f8ef215558,
+12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,cleanestresults@gmail.com,gmail,login.php,DHLUS,retire-today.us,DHL2.zip,Created BY v3nZa,49ceae355b065103709022f8ef215558,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,ghene.johnson@gmail.com,gmail,infonava.php,,retire-today.us,nav.zip,Thuglife_Legend,c3472540644b853ed9c7383df770af99,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,blesspaul9@gmail.com,gmail,verification.php,,santoguia.net,html.zip,GENERAL PALE,b10b6637a26bc00ed1ff7e1d516339a9,
 12/1/2018,https://twitter.com/neonprimetime/status/1069056311294341120,lonzo.ball3rl@gmail.com,gmail,enteryouremailhere.php,,sex-secrets-revealed.com,Refund.zip,,b5b0cc42da8713c72249a553dbad03a5,
@@ -1552,7 +1545,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/1/2018,https://twitter.com/n0p1shing/status/1068921729064554501,callmebless609@gmail.com,gmail,Logon.php,Office365,auraaqp.com,Office365.zip,reated BY Mr-Anobs in 2016 (skype:ethan-miles),3bc7000c985f2e61146593eb9626a04d,
 12/1/2018,https://twitter.com/n0p1shing/status/1068921729064554501,DAMBLESS@yandex.com,yandex,email.php,,balazhimim.id,Docfile.zip,,f7e79a865df9679814d1bbf0653227fd,
 12/1/2018,https://twitter.com/n0p1shing/status/1068921729064554501,gc.dunecraft@gmail.com,gmail,email.php,,bankrollers.com,file.zip,,e7c8f4ffc6c78ac06fc590829349a5d6,
-12/1/2018,https://twitter.com/n0p1shing/status/1068921729064554501,loginz2030@gmail.com,gmail,end.php,DHL,bicaraambo.com,dhl%20shipping.zip,Created in 2014 By tare_ama,6c1e14e75f0e2a691cbb523f5d9e76f8,
+12/1/2018,https://twitter.com/n0p1shing/status/1068921729064554501,loginz2030@gmail.com,gmail,end.php,DHLUS,bicaraambo.com,dhl%20shipping.zip,Created in 2014 By tare_ama,6c1e14e75f0e2a691cbb523f5d9e76f8,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,mrmichaeledwards1@gmail.com,gmail,auth.php,Adobe,spotonsolutionsdev.com,Adobe-PDFdoc.zip,Created By LEKSIGH OFFICE,e370eafb53abafa8ca23413a4110f296,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,helen.shunde@gmail.com,gmail,auth.php,Adobe,spotonsolutionsdev.com,Adobe-PDFdoc.zip,,e370eafb53abafa8ca23413a4110f296,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,spylogs2018@gmail.com,gmail,login.php,,skeplitiba7.icu,aol2018-CORRECTED.zip,Created BY fudtools[.]com,7cc7339c49fee959c7cdadc3fe368673,
@@ -1561,8 +1554,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,busybrain9999@gmail.com,gmail,index.php,,chesconews.net,bio.zip,,e149b23713ef22b67016eeabd3b8b573,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,mr3aslya777@gmail.com,gmail,Email.php,BOA,fguyert.com,Bofa_Remote.zip,,f661f16cc1138472fd3d6e30170e402f,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,rwangaudioquest.com@gmail.com,gmail,post.php,,retire-today.us,cn%20countin.zip,,e58390fa30ed5ce19e57415e2762b090,
-12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,sjsteve66@gmail.com,gmail,mao.php,DHL,rentypro.com,DHL.zip,,49ceae355b065103709022f8ef215558,
-12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,cleanestresults@gmail.com,gmail,login.php,DHL,retire-today.us,DHL2.zip,Created BY v3nZa,07604778ef5e872b268a078a158ca786,
+12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,sjsteve66@gmail.com,gmail,mao.php,DHLUS,rentypro.com,DHL.zip,,49ceae355b065103709022f8ef215558,
+12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,cleanestresults@gmail.com,gmail,login.php,DHLUS,retire-today.us,DHL2.zip,Created BY v3nZa,07604778ef5e872b268a078a158ca786,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,helen.shunde@gmail.com,gmail,offphp.php,,spotonsolutionsdev.com,Do.zip,,e36af35bb1fb42866d5d2eba3eff3f15,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,ak4biz693@gmail.com,gmail,process.php,DropBox,rolexbager.ml,dropbox%20+%20letter%202017%20(1).zip,,b55d121981e3136d17f4ae02ef0ba9a9,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,caltonby@gmail.com,gmail,comtech.php,Excel,khaataza.tk,excel%20(2)%20By%20Chibondada.zip,Created By BJ,9187f7fe3f456b7b04776c36513e2b1b,
@@ -1571,7 +1564,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,loso.loso4pf@gmail.com,gmail,logging.php,,uweiro.com,Gouv.taxe.zip,created by 723806851,2cd2e05ccdb1014520cafd19c2e86c07,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,kobelolo12@gmail.com,gmail,CONTROLS.php,,uweiro.com,Gouv.taxe.zip,created by 723806851,2cd2e05ccdb1014520cafd19c2e86c07,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,all.results13@gmail.com,gmail,index2.php,,uweiro.com,Gouv.taxe.zip,created by 723806851,2cd2e05ccdb1014520cafd19c2e86c07,
-12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,douglas.mitchu@gmail.com,gmail,check.php,Microsoft,hiuwret.com,hotmail.zip,,0a60e5f762c7e67f6161a8af6f7607e8,
+12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,douglas.mitchu@gmail.com,gmail,check.php,Hotmail,hiuwret.com,hotmail.zip,,0a60e5f762c7e67f6161a8af6f7607e8,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,vanderwaal202@gmail.com,gmail,post.php,,econnexon.com,invoice.php.zip,,02d7746dee107973d5643f84e24b2c60,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,jidemarvel1313@gmail.com,gmail,i.php,office365,sch.pw-eg.com,iwceti.zip,,3513c48bae154c3d4e8277d7c56d13cf,
 12/1/2018,https://twitter.com/Techhelplistcom/status/1069089462229954560,ghene.johnson@gmail.com,gmail,infonava.php,,haralayya.com,ME.zip,Created BY El Padrino,fa8693d93c9dfc6212d97169b5407fa8,
@@ -1708,7 +1701,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,deadwill9@gmail.com,gmail,office.php,Office365,,office.zip,,23EDF9D3D5EE9CB5ED61A84475D4CB7F,
 12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,dflglobalcourierinfo@gmail.com,gmail,verification.php,Office365,,Microsoft-Office.zip,,6C53831626CD22F327EB3FDA551033C4,
 12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,donezeifeka@gmail.com,gmail,contactus.php,,,bankoffinance.zip,,9040BF83E152C0978E369DCFB08FE824,
-12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,douglas.mitchu@gmail.com,gmail,check.php,Microsoft,,hotmail.zip,,0A60E5F762C7E67F6161A8AF6F7607E8,
+12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,douglas.mitchu@gmail.com,gmail,check.php,Hotmail,,hotmail.zip,,0A60E5F762C7E67F6161A8AF6F7607E8,
 12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,ericjasonminks150@gmail.com,gmail,mm.php,ATT,,att - Copy.zip,,CB8A2B4685671FA0230FD8301A49B56C,
 12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,foroldman@gmail.com,gmail,x1.php,,,app1.zip,,115F61BF3FB8A7512FE991EC89F5DBFF,
 12/2/2018,https://twitter.com/neonprimetime/status/1069706183601283080,godatwork90@gmail.com,gmail,live.php,OneDrive,,onedri.zip,,F2AE9331C87EF785C849D2DDCEF3CE03,
@@ -1772,7 +1765,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,aoljnr001@gmail.com,gmail,email.php,DropBox,headband.c0m.li,Dropbox2018.zip,,f67f3e03b9e780e4620e002fa3346c34,http://headband.c0m.li/ao/Dropbox2018.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,ronalddrosso@gmail.com,gmail,process.php,DropBox,frendly.fr.am,drpbnewedition.zip,,ad2de66f36754876e3968ac710873602,http://frendly.fr.am/vixen/drpbnewedition.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,jcag1600@gmail.com,gmail,send01.php,OneDrive,hangers.c0m.li,One%20officedrive%20MX.zip,,3064b782aab317ca848d0b6ebe6b0b15,http://hangers.c0m.li/db/One%20officedrive%20MX.zip
-12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,toolsbox10@gmail.com,gmail,login.php,Micdrosoft,fisher.fr.am,outlooknew18.zip,,15aa24fcaf0215a04adfb2b050bf082f,http://fisher.fr.am/New/outlooknew18.zip
+12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,toolsbox10@gmail.com,gmail,login.php,Outlook,fisher.fr.am,outlooknew18.zip,,15aa24fcaf0215a04adfb2b050bf082f,http://fisher.fr.am/New/outlooknew18.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,audleydedrick@gmail.com,gmail,verification.php,,smells.ipq.co,Permission%20(1).zip,,e24aefb2150c694092dc5da1ae8b8a8a,http://smells.ipq.co/docusign/Permission%20(1).zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,tt349438@gmail.com,gmail,throwit.php,,coffee.mm.am,share.zip,,922b44bbf535b9854ef0973442aa3c16,http://coffee.mm.am/my.sharepoint/ass/share.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070164088192450560,recordserviceportal@gmail.com,gmail,throwit.php,,coffee.mm.am,share%202.zip,,93449d503dd0ed1774f86c133915b917,http://coffee.mm.am/x/share%202.zip
@@ -1794,7 +1787,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070172569314254848,smithdanny320@gmail.com,gmail,mm.php,ATT,padfrin.org,att.zip,Coded by LAPARI,a73b0fdffef915622d8bf5681a8bcf61,http://padfrin.org/test/att.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070174011831799808,willism229@gmail.com,gmail,action.php,Alibaba,xenewns.tk,ALIBABA.zip,Created By ALIBOBO,63fd21d818ed98fae456dfe28885a120,http://xenewns.tk/specification/ALIBABA.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070174011831799808,anobchris@gmail.com,gmail,logon.php,Alibaba,xenewns.tk,ALIBABA.zip,Created By ALIBOBO,63fd21d818ed98fae456dfe28885a120,http://xenewns.tk/specification/ALIBABA.zip
-12/4/2018,https://twitter.com/Techhelplistcom/status/1070174011831799808,ethanroy2018@gmail.com,gmail,3d.php,Microsoft,fulucebo.tk,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://fulucebo.tk/liv/Hotmail-outlook-2018.zip
+12/4/2018,https://twitter.com/Techhelplistcom/status/1070174011831799808,ethanroy2018@gmail.com,gmail,3d.php,Hotmail,fulucebo.tk,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://fulucebo.tk/liv/Hotmail-outlook-2018.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070174011831799808,ethanroy2018@gmail.com,gmail,index010.php,,fulucebo.tk,Mailbox.zip,,2888e2ddad8a713df8b81b58ac22fe95,http://fulucebo.tk/Sm/Mailbox.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070174011831799808,allenhchan113@gmail.com,gmail,info.php,Office365,fulucebo.tk,OfficeP.zip,,cd7f509cc5bbce745b10dbaa0a3d6e98,http://fulucebo.tk/mc/OfficeP.zip
 12/4/2018,https://twitter.com/Techhelplistcom/status/1070176800729427968,jad.ostrowska@gmail.com,gmail,geemail.php,,abqhbgjsbqa.cf,NEWDB.zip,,24323a07623e81d4a9dc36c5685430c9,http://abqhbgjsbqa.cf/NEWDB.zip
@@ -1813,7 +1806,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/5/2018,https://twitter.com/dms1899/status/1070368336406564865,terryrichard1210@aol.com,aol,,,iignoo.design,,,,
 12/5/2018,https://twitter.com/dms1899/status/1070368336406564865,solomonfrosh@yahoo.com,yahoo,,,iignoo.design,,,,
 12/5/2018,https://twitter.com/dms1899/status/1070368336406564865,obs101@outlook.com,outlook,,,iignoo.design,,,,
-12/5/2018,https://twitter.com/dms1899/status/1070372973104779265,toolsbox10@gmail.com,gmail,,Microsoft,mybotha.com,outlooknew18.zip,,,http://mybotha.com/js/bk/drive/team/login/outlooknew18.zip
+12/5/2018,https://twitter.com/dms1899/status/1070372973104779265,toolsbox10@gmail.com,gmail,,Outlook,mybotha.com,outlooknew18.zip,,,http://mybotha.com/js/bk/drive/team/login/outlooknew18.zip
 12/5/2018,https://twitter.com/dms1899/status/1070372973104779265,yampishresult@gmail.com,gmail,,Microsoft,mybotha.com,micro.zip,,,http://mybotha.com/js/bk/micro.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,kunmibright100@gmail.com,gmail,OF.php,,alphaphysio.ca,00.zip,,9bcd58a58d1ccdadb671a30db2f0ec87,https://alphaphysio.ca/st/00.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,qallan01@gmail.com,gmail,office.php,,www.healthjournalmy.com,01Admin.zip,,b04359f84d025dd1e755a7557aeb09ec,https://www.healthjournalmy.com/01Admin.zip
@@ -1878,7 +1871,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,tylerbank6@gmail.com,gmail,office.php,OneDrive,emaxwebworld.com,one.zip,,4cd85988b518d955048d5af55cab42e7,http://emaxwebworld.com/dng/one.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,sr2873100@gmail.com,gmail,office.php,OneDrive,stage.c0m.li,one.zip,,0ff199dc6f6bf084d000ae1635736318,https://stage.c0m.li/flyboi/one.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,joak278@gmail.com,gmail,office.php,OneDrive,destaposinromper.com,onedri.zip,,d9c6eb710a860607d32d3b7b9a39d98e,http://destaposinromper.com/wp-admin/includes/onedri.zip
-12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,fashionkaon@inbox.lt,inbox.It,office.php,OneDrive,destaposinromper.com,onedri.zip,,d9c6eb710a860607d32d3b7b9a39d98e,http://destaposinromper.com/wp-admin/includes/onedri.zip
+12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,fashionkaon@inbox.lt,inbox.lt,office.php,OneDrive,destaposinromper.com,onedri.zip,,d9c6eb710a860607d32d3b7b9a39d98e,http://destaposinromper.com/wp-admin/includes/onedri.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,bensonscoth27@gmail.com,gmail,data.php,OneDrive,ephesusguidedtours.com,onedrive.zip,,c4c252a62d9d84df99578d1b219bbd11,https://ephesusguidedtours.com/onedrive.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,blackhat0077@yahoo.com,yahoo,post.php,OneDrive,skwilliams.ml,onedrive.zip,,a2a534e0c46d5fadb3559852082caa27,https://skwilliams.ml/demo/engdom/onedrive.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,31nija@gmail.com,gmail,post.php,OneDrive,skwilliams.ml,onedrive.zip,,a2a534e0c46d5fadb3559852082caa27,https://skwilliams.ml/demo/engdom/onedrive.zip
@@ -1892,9 +1885,9 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,justroger44@gmail.com,gmail,nice.php,OurTime,mirzapoor.ga,ourtimet.zip,,50c38f5922d060f7564c28b6556cf01f,http://mirzapoor.ga/OurTime.com/ourtimet.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,karlbaer2020@gmail.com,gmail,nice.php,OurTime,mirzapoor.ga,ourtimet.zip,,571f391725857bc949bcfd2657155847,http://mirzapoor.ga/ourtimet.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,harryseeksyou460@gmail.com,gmail,nice.php,OurTime,scqweb.tk,ourtimet.zip,,63439a8ac58aa964f0efee8fcd8c78c1,http://scqweb.tk/ourtimet.zip
-12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,michhgorsski@gmail.com,gmail,login.php,Microsoft,sulfexworld.in.net,OUTLOOKNEW - bebeto.zip,,33f3738cead632e4d4c56d6791a0e895,http://sulfexworld.in.net/img/OUTLOOKNEW%20-%20bebeto.zip
-12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,seniordpdischarge@gmail.com,gmail,next.php,Microsoft,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
-12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,agentjohncodexuk201@gmail.com,gmail,next.php,Microsoft,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
+12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,michhgorsski@gmail.com,gmail,login.php,Outlook,sulfexworld.in.net,OUTLOOKNEW - bebeto.zip,,33f3738cead632e4d4c56d6791a0e895,http://sulfexworld.in.net/img/OUTLOOKNEW%20-%20bebeto.zip
+12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,seniordpdischarge@gmail.com,gmail,next.php,Outlook,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
+12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,agentjohncodexuk201@gmail.com,gmail,next.php,Outlook,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,robertpurdie14@gmail.com,gmail,verification.php,,nevernothere.com,permission.zip,,29e8871d9a12730fb167ac9d7fbde808,http://nevernothere.com/tempt/permission.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,thehourblessing@gmail.com,gmail,alphp.php,,nevernothere.com,permission.zip,,29e8871d9a12730fb167ac9d7fbde808,http://nevernothere.com/tempt/permission.zip
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,Lamejamescul@gmail.com,gmail,post.php,,ferreplomex.com.mx,project.zip,,d2ed62525ffd5b76a7a3f9b5857a8d7e,http://ferreplomex.com.mx/wp-content/plugins/css-ready-selectors/project.zip
@@ -1922,7 +1915,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/5/2018,https://twitter.com/johnlacour3/status/1070417880343293962,tititi.ass1@gmail.com,gmail,emma.php,,purmirzas.ga,yam.zip,,dbb83b90769871cbbc2f62df846e95de,http://purmirzas.ga/yam.zip
 12/5/2018,https://twitter.com/WifiRumHam/status/1070426611063894019,mooremoore821@gmail.com,gmail,,OneDrive,toyquarium.com,One Drive.zip,,,https://toyquarium.com/businessfilesarchive.net/One Drive.zip
 12/5/2018,https://twitter.com/neonprimetime/status/1070581502998704128,loginsbox12@gmail.com,gmail,geemail.php,OneDrive,aygorenotel.com,2018%20Doc.zip,BY ThaCreator,db99d31f81340660c60c10b5728c0fbb,http://aygorenotel.com/wp-content/plugins/2018%20Doc.zip
-12/5/2018,@TheQuickRedFoxx,activamarine@126.com,126.com,,,eloring.xyz,Centrum.zip,,44bd05e80390bf06d9a661238cfffc174b2e50a6424851c080ff57934f7324cb,http://eloring.xyz/hmsa-group/Centrum.zip
+12/5/2018,@TheQuickRedFoxx,activamarine@126.com,126,,,eloring.xyz,Centrum.zip,,44bd05e80390bf06d9a661238cfffc174b2e50a6424851c080ff57934f7324cb,http://eloring.xyz/hmsa-group/Centrum.zip
 12/5/2018,@TheQuickRedFoxx,edwardsm166@gmail.com,gmail,,,palcerk.xyz,loginoff.zip,,15c52a4f9c4a58e46ff9bf9e6bf141c969a538950346e279b61799c68cb42dfe,http://palcerk.xyz/log/loginoff.zip
 12/5/2018,@TheQuickRedFoxx,effizylutherbelieve2017@gmail.com,gmail,,Match,tchantd.xyz,Match.zip,,1c369d5d0c82bbadcc3058dbf596fc7d9ba2998cb8c9fc6e38581d5ebc8869c4,http://tchantd.xyz/Match.zip
 12/5/2018,@TheQuickRedFoxx,iykephilipe@gmail.com,gmail,,Yahoo,tchantd.xyz,Yahoomail.zip,,c869b5b39c83abf48421a6b4b1805ce1ab8c7ce0249387c124dd9ff3e703bef7,http://tchantd.xyz/Yahoomail.zip
@@ -1990,7 +1983,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,all.results13@gmail.com,gmail,index2.php,,,Gouv.taxe.zip,,2CD2E05CCDB1014520CAFD19C2E86C07,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,kobelolo12@gmail.com,gmail,CONTROLS.php,,,Gouv.taxe.zip,,2CD2E05CCDB1014520CAFD19C2E86C07,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,sheginst@gmail.com,gmail,check.php,,,hotis.zip,,611AA0A20E37D7858AC6E3B85565E08A,
-12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,douglas.mitchu@gmail.com,gmail,check.php,Micrsosoft,,hotmail.zip,,0A60E5F762C7E67F6161A8AF6F7607E8,
+12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,douglas.mitchu@gmail.com,gmail,check.php,Hotmail,,hotmail.zip,,0A60E5F762C7E67F6161A8AF6F7607E8,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,resultbox038@gmail.com,gmail,processor.php,,,kkkxdxxnxxxx.zip,,23E6B9E36F5A14EBACE3FDC0EE98055B,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,swaelee180@gmail.com,gmail,forward.php,,,Late.zip,,E45FDAA907260BB33D84BF621C581DA5,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,blessingbox3k7@gmail.com,gmail,forward.php,,,late-code.zip,,95B030BE8D147CD45431A45252F63E62,
@@ -2001,8 +1994,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,payments_processors@yahoo.com,yahoo,login.php,,,Made-In-China.com.zip,,4ED3117F616FB81070BA7A2B6B6D64FE,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,micheal1918@gmail.com,gmail,mail.php,,,Major Drop (2).zip,,36E92C58BA9524BE7B52C12B32830F66,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,toolzxxx01@gmail.com,gmail,popup.php,,,Mic2018.zip,,3E45CA52518B7EB93B88660E929E3A9C,
-12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,dflglobalcourierinfo@gmail.com,gmail,verification.php,Micrsosoft,,Microsoft-Office.zip,,6C53831626CD22F327EB3FDA551033C4,
-12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,resultesther@gmail.com,gmail,verify.php,Micrsosoft,,microsoftonline.secured - YO.zip,,96AC7846674BD71DCC1A064E422D866F,
+12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,dflglobalcourierinfo@gmail.com,gmail,verification.php,Office365,,Microsoft-Office.zip,,6C53831626CD22F327EB3FDA551033C4,
+12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,resultesther@gmail.com,gmail,verify.php,Microsoft,,microsoftonline.secured - YO.zip,,96AC7846674BD71DCC1A064E422D866F,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,izugod101010@gmail.com,gmail,mail.php,,,mso.zip,,0AB1691E24E9D2A542AB3F063195E74A,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,lamejamescul@gmail.com,gmail,verification.php,,,nD.zip,,F3336AEF78F122C892B8519913ADD9D3,
 12/5/2018,https://twitter.com/neonprimetime/status/1072885862474616832,sammbrega@yandex.com,yandex,collect.php,,,NEWESTCM.zip,,BB8F8F20DF2514232B8F90AE376D5F05,
@@ -2050,7 +2043,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,jpresult@yandex.com,yandex,,Apple,appleid.apple.com-supportid235237.com,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,otherresult@yandex.com,yandex,,Apple,appleid.apple.com-support.serviceinvoked-accountalertscustom.agency,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,bersamasama@yandex.com,yandex,,Apple,appleid.apple.com.update-billinginformationida.net,,,,
-12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,jakarta.bandung@yandex.com,yandex,Apple,appleids.locked-forgot-accountsz.com,,,,,
+12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,jakarta.bandung@yandex.com,yandex,,Apple,appleids.locked-forgot-accountsz.com,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,akun.meler8@gmail.com,gmail,,Apple,appleidtaib.ddns.net,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070635943219089409,kakarotok@yandex.com,yandex,,Apple,applid-applejpnid.3utilities.com,,,,
 12/6/2018,https://twitter.com/dave_daves/status/1070698404974600192,resbar2cc@yandex.com,yandex,,Apple,manage-applesupport-verification-account.com,,,,
@@ -2121,10 +2114,10 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,chevyu930@gmail.com,gmail,,OurTime,valuable.ml,ourtime123.zip,,27c3556b687f72e957966d61ad12cbed,http://valuable.ml/ourtime123.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,justroger44@gmail.com,gmail,,OurTime,mirzapoor.ga,ourtimet.zip,,571f391725857bc949bcfd2657155847,http://mirzapoor.ga/ourtimet.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,karlbaer2020@gmail.com,gmail,,OurTime,mirzapoor.ga,ourtimet.zip,,50c38f5922d060f7564c28b6556cf01f,http://mirzapoor.ga/OurTime.com/ourtimet.zip
-12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,salauridwanopeyemi@gmail.com,gmail,,Microsoft,larocka1029.com,outlook.zip,,239a8fc6eabe2d1226012b3b35ec1a87,http://larocka1029.com/OPE/outlook.zip
-12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,toolsbox10@gmail.com,gmail,,Microsoft,fisher.fr.am,outlooknew18.zip,,15aa24fcaf0215a04adfb2b050bf082f,http://fisher.fr.am/New/outlooknew18.zip
-12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,agentjohncodexuk201@gmail.com,gmail,,Microsoft,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
-12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,seniordpdischarge@gmail.com,gmail,,Microsoft,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
+12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,salauridwanopeyemi@gmail.com,gmail,,Outlook,larocka1029.com,outlook.zip,,239a8fc6eabe2d1226012b3b35ec1a87,http://larocka1029.com/OPE/outlook.zip
+12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,toolsbox10@gmail.com,gmail,,Outlook,fisher.fr.am,outlooknew18.zip,,15aa24fcaf0215a04adfb2b050bf082f,http://fisher.fr.am/New/outlooknew18.zip
+12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,agentjohncodexuk201@gmail.com,gmail,,Outlook,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
+12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,seniordpdischarge@gmail.com,gmail,,Outlook,worldattachments.net,outlookoffice.zip,Created BY Burhan,b0dfeb7325b0ae0378d3a3a3affaa926,http://worldattachments.net/images/outlookoffice.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,luqmanid1337@gmail.com,gmail,,,www.shamitkhemka.com,plugdt2.zip,Coded by Luqman1337,f82a6e4f5cf23489d88f958ce5502fe9,http://www.shamitkhemka.com/wp-content/uploads/plugdt2.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,luqmanid1337@gmail.com,gmail,,,www.shamitkhemka.com,plugdt21.zip,Coded by Luqman1337,f82a6e4f5cf23489d88f958ce5502fe9,http://www.shamitkhemka.com/wp-content/uploads/plugdt21.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070785365953441792,Lamejamescul@gmail.com,gmail,,,ferreplomex.com.mx,project.zip,,d2ed62525ffd5b76a7a3f9b5857a8d7e,http://ferreplomex.com.mx/wp-content/plugins/css-ready-selectors/project.zip
@@ -2151,7 +2144,6 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070526493074382848,resultpage2020@gmail.com,gmail,loginss.php,,fourms-challange.org,content.php,,cd7f05eb4ee1ec1aa2e799b56219c745,http://fourms-challange.org/content.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070882142719217665,blabablaba52@gmail.com,gmail,verification.php,Gmail,alphaindu.com,google.zip,,fa4b005bcc7e0ab33ea38efbe9939a1f,http://alphaindu.com/google.zip
 12/6/2018,https://twitter.com/neonprimetime/status/1070882142719217665,azerrez@protonmail.com,protonmail,info.php,Paypal,supportessenti.online,Bengazi-cleen.zip,Code by lzlAden BenGazi,5271182a45c4eec1bbb1096498125a7c,https://supportessenti.online/service/Bengazi-cleen.zip
-12/6/2018,https://twitter.com/Techhelplistcom/status/1070887493246074880,email-1@xx.com,xx,Email.php,Apple,lazcxrt.net,Apple_iCLoud_2018.zip,,31b32c7b88036c37f782ea82d4861f0d,http://lazcxrt.net/bin/Apple_iCLoud_2018.zip
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070887493246074880,scottgrovewivu@gmail.com,gmail,mm.php,ATT,nkbdan.net,ATT.zip,Coded by Bala,c2c41f2a09f4a5fdfcbe4cf3735d1248,http://nkbdan.net/see/ATT.zip
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070887493246074880,atunrawire@gmail.com,gmail,process.php,,nfakdhoka.ga,ayo1.zip,,0cc942aea5fed047eaf8b94a906539fe,http://nfakdhoka.ga/aux/ayo1.zip
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070887493246074880,vanessalouis52@gmail.com,gmail,res.php,,purmirzas.gq,bayo.zip,,520659031eed33abfdd1d3da36e74f83,http://purmirzas.gq/Match.com/bayo.zip
@@ -2199,7 +2191,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070887493246074880,tititi.ass1@gmail.com,gmail,emma.php,,hardpsaq.ml,yam.zip,,78709f3d8ebed7d68d9b9defdc51b471,http://hardpsaq.ml/yam.zip
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070894542495326208,Surelogins2016@gmail.com,gmail,verify.php,DHLUS,trixewy.ga,DHL AUTO.zip,,c8b1d9686340a628cf375ee26d2d826b,http://trixewy.ga/vv/DHL%20AUTO.zip
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070894542495326208,weeksjoerich@gmail.com,gmail,email.php,DHLUS,prixeyz.gq,dhl.zip,Created BY sh3llb0x,a601a6f0f4de7e2a1459fc1b46f88e27,http://prixeyz.gq/dan/dhl.zip
-12/6/2018,https://twitter.com/Techhelplistcom/status/1070894542495326208,ethanroy2018@gmail.com,gmail,3d.php,Microsoft,trixewy.ga,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://trixewy.ga/live/Hotmail-outlook-2018.zip
+12/6/2018,https://twitter.com/Techhelplistcom/status/1070894542495326208,ethanroy2018@gmail.com,gmail,3d.php,Hotmail,trixewy.ga,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://trixewy.ga/live/Hotmail-outlook-2018.zip
 12/6/2018,https://twitter.com/Techhelplistcom/status/1070894542495326208,robbertmccall213@gmail.com,gmail,index163.php,,trixewy.ga,NETEASE163.zip,,111cdf1e32a305b177dd1e1678499182,http://trixewy.ga/ck/NETEASE163.zip
 12/6/2018,https://twitter.com/jh0n_s3rr4t/status/1070903319403597825,sergio.persco@gmail.com,gmail,,MsExcel,www.adifotografia.site,,,,
 12/6/2018,@TheQuickRedFoxx,Lamejamescul@gmail.com,gmail,,,ferreplomex.com.mx,nD.zip,,952e7de243fd2198f37ee20721814e2fb1dd5ab9cadda269e1f147c80259db20,http://ferreplomex.com.mx/wp-content/plugins/css-ready-selectors/project.zip
@@ -2207,8 +2199,6 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,@TheQuickRedFoxx,nouoman.sa33d@gmail.com,gmail,,,mirzapoor.ga,autogeneral.zip,,ca9a393bab674afeb9042c340dfce56ab45e72078c19a02534d388061c8431bb,http://mirzapoor.ga/mstch/matchnew.zip
 12/6/2018,@TheQuickRedFoxx,tititi.ass1@gmail.com,gmail,,LinkedIn,purmirzas.ga,LinkedIn.com.zip,,130cedf75a9ffb281e2f1eb71124b28ad845e276bfa35e3c373cdbdf0ab199c8,http://purmirzas.ga/yam.zip
 12/6/2018,@TheQuickRedFoxx,dmooredavid@yandex.com,yandex,,,blgrowth.com,filemalta.zip,,017cbb628bda0a26cd870dfb3d5e1f9d209a4707da34691dff45ed58caf0467d,https://blgrowth.com/wp-sun/TDbank.zip
-12/6/2018,@TheQuickRedFoxx,admin@google.com,google,,,skmart.co.uk,service.zip,,28614c5096570a95ef52361bf60a61f86243ff103312fe82bf7cf453182e2f41,http://skmart.co.uk/js/mage/adminhtml/sales/service.zip
-12/6/2018,@TheQuickRedFoxx,craftbot@yahoo.com,yahoo,,Sharepoint,tuneuppro.us,sharepoint.zip,,fb4a6b980a48eb102e242d82f54028dbf21c8f749c26628cea748057ffb7c031,https://tuneuppro.us/48forty.com/sharepoint.zip
 12/6/2018,@TheQuickRedFoxx,chevyu930@gmail.com,gmail,,Zoosk,valuable.ml,zoosk123.zip,,4db756392d03da0c7c83d351de0dce5fec2888c2b4b6829e2d3b75c95826e443,http://valuable.ml/zoosk123.zip
 12/6/2018,@TheQuickRedFoxx,zzxxccah22@gmail.com,gmail,,,boretic.ml,1.zip,,c825127a25e1ccc9a669a6487400222e4f398264be811b313748d0c0716e4749,http://boretic.ml/1.zip
 12/6/2018,@TheQuickRedFoxx,michaeljubel@gmail.com,gmail,,Microsoft,eatonvilletorainier.com,MicrosoftNetService64.zip,,2ea9b84ef66c92a11a097db586c5b1f8da458c3a8284a98f8afaeea5589d6d3b,http://eatonvilletorainier.com/wp-content/uploads/arthemia-premium1.zip
@@ -2233,7 +2223,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,@TheQuickRedFoxx,hybielee007@gmail.com,gmail,,ATT,spyta.ga,attiinnddeexx.html.zip,,842b8b57d895858c64badd6de646de52542320ee9e73d79e26fc21ad2f06093c,http://spyta.ga/bab/attiinnddeexx.html.zip
 12/6/2018,@TheQuickRedFoxx,keshman97@yandex.com,yandex,,Yahoo,www.karyadelkamaritim.com,newsyahoo.zip,,da8c423bc2e8b83a723876a17d3e611b89107b3c2cde029668f7509f739bfa8b,https://www.karyadelkamaritim.com/iwueuiweioew/newsyahoo.zip
 12/6/2018,@TheQuickRedFoxx,info_ceo@yahoo.com,yahoo,,,worldattachments.net,mossyoak.zip,,188416913658561f6e4dd759029495d4f82e893128c2ab13bdafe6fc0521f023,http://worldattachments.net/images/mossyoak.zip
-12/6/2018,@TheQuickRedFoxx,agentjohncodexuk201@gmail.com,gmail,,Microsoft,worldattachments.net,outlookoffice.zip,,7dfa0a0ab39a00fbaace1243cc49d09a860254d466aed9d56328110451c09d14,http://worldattachments.net/images/outlookoffice.zip
+12/6/2018,@TheQuickRedFoxx,agentjohncodexuk201@gmail.com,gmail,,Outlook,worldattachments.net,outlookoffice.zip,,7dfa0a0ab39a00fbaace1243cc49d09a860254d466aed9d56328110451c09d14,http://worldattachments.net/images/outlookoffice.zip
 12/6/2018,@TheQuickRedFoxx,luqmanid1337@gmail.com,gmail,,,www.shamitkhemka.com,plugdt21.zip,,4fe3771621f581ae3d5db9a016951d42620eaf753f1124e9669c6b23d38a3514,http://www.shamitkhemka.com/wp-content/uploads/plugdt21.zip
 12/6/2018,@TheQuickRedFoxx,luqmanid1337@gmail.com,gmail,,,www.shamitkhemka.com,plugdt2.zip,,4fe3771621f581ae3d5db9a016951d42620eaf753f1124e9669c6b23d38a3514,http://www.shamitkhemka.com/wp-content/uploads/plugdt2.zip
 12/6/2018,@TheQuickRedFoxx,meganlennart@gmail.com,gmail,,Dropbox,online-supports.company,boxdrop-shared-attachment.zip,,3344a9f09c94cc0464ff182f7c993a38d3003a93e895c6e9a28dbd77763e3389,http://online-supports.company/box-drop.com/boxdrop-shared-attachment.zip
@@ -2246,7 +2236,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,@TheQuickRedFoxx,alibabareloaded@gmail.com,gmail,,Dropbox,consult.fm,dropbox.zip,,759143e0f22615d3a7539ae1ce2262facdb72e41b0bd2514580ad93729b99203,http://consult.fm/tiki/board/dropbox.zip
 12/6/2018,@TheQuickRedFoxx,profeldonking2@gmail.com,gmail,,Dropbox,consult.fm,dropbox.zip,,759143e0f22615d3a7539ae1ce2262facdb72e41b0bd2514580ad93729b99203,http://consult.fm/tiki/board/dropbox.zip
 12/6/2018,@TheQuickRedFoxx,team_pbg@yahoo.com,yahoo,,Dropbox,consult.fm,dropbox.zip,,759143e0f22615d3a7539ae1ce2262facdb72e41b0bd2514580ad93729b99203,http://consult.fm/tiki/board/dropbox.zip
-12/6/2018,@TheQuickRedFoxx,toolsbox10@gmail.com,gmail,,Microsoft,fisher.fr.am,outlooknew18.zip,,7063348da740d8264796b75791b91e81554f0c08562116e48a9d1c7953e87d59,http://fisher.fr.am/New/outlooknew18.zip
+12/6/2018,@TheQuickRedFoxx,toolsbox10@gmail.com,gmail,,Outlook,fisher.fr.am,outlooknew18.zip,,7063348da740d8264796b75791b91e81554f0c08562116e48a9d1c7953e87d59,http://fisher.fr.am/New/outlooknew18.zip
 12/6/2018,@TheQuickRedFoxx,resultsnoni@gmail.com,gmail,,,flatoutfreedom.com,doc2014-1.zip,,53a4dfb62e16b3718db39a02872c5668af6b367a585a807ff52282d116256d28,http://flatoutfreedom.com/wp-includes/pomo/doc2014-1.zip
 12/6/2018,@TheQuickRedFoxx,temmiekiss011@yahoo.com,yahoo,,Ourtime,mirzapoor.gq,ourtime.zip,,92f698f829ce1e35b2b76ecb51bcdcbb541b07c9dfe453f13c9798da51e312cd,http://mirzapoor.gq/v3/ourtime.zip
 12/6/2018,@TheQuickRedFoxx,patiaelec@gmail.com,gmail,,Office365,mitcom.ca,office365.documents.zip,,bd7a4d78d8744b6f47bc0756e475cdaa04409e69a7080f709891728c957252fb,http://mitcom.ca/wp-content/plugins/vwcleanerplugin/office365.documents.zip
@@ -2270,7 +2260,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/6/2018,@TheQuickRedFoxx,pumpingwire@gmail.com,gmail,,GoogleDocs,tohelpsavemyrelationship.endless-blooms.com,googledoc..zip,,c880c237c4a8ef97afe0b4b1773e6b0ea5f5b8f11926ba8fc48c3231eb0b9048,http://tohelpsavemyrelationship.endless-blooms.com/moni/googledoc..zip
 12/6/2018,@TheQuickRedFoxx,rexa3k@gmail.com,gmail,,,wallacekeane.ie,Account.zip,,65131eb91032ad6902bd752439e43b0ec6be46f00721698d739a1434d424a26b,http://wallacekeane.ie/wp-includes/pomo/customize-upadte.account.securityvarious/Account.zip
 12/6/2018,@TheQuickRedFoxx,worldbankgroupdesk@gmail.com,gmail,,,worldattachments.net,mossyoak.zip,,188416913658561f6e4dd759029495d4f82e893128c2ab13bdafe6fc0521f023,http://worldattachments.net/images/mossyoak.zip
-12/6/2018,@TheQuickRedFoxx,seniordpdischarge@gmail.com,gmail,,Microsoft,worldattachments.net,outlookoffice.zip,,7dfa0a0ab39a00fbaace1243cc49d09a860254d466aed9d56328110451c09d14,http://worldattachments.net/images/outlookoffice.zip
+12/6/2018,@TheQuickRedFoxx,seniordpdischarge@gmail.com,gmail,,Outlook,worldattachments.net,outlookoffice.zip,,7dfa0a0ab39a00fbaace1243cc49d09a860254d466aed9d56328110451c09d14,http://worldattachments.net/images/outlookoffice.zip
 12/7/2018,https://twitter.com/dave_daves/status/1071068552667545600,telanjang1@yandex.com,yandex,,Apple,apple2id-account-reset.doublelogin.com,,,,
 12/7/2018,https://twitter.com/dave_daves/status/1071068552667545600,elithunter203@gmail.com,gmail,,Apple,appleid.accountupdate.supportid929922.com,,,,
 12/7/2018,https://twitter.com/dave_daves/status/1071068552667545600,buyerjapanes@yandex.com,yandex,,Apple,appleid.apple.com.homecredit-karimun.com,,,,
@@ -2382,8 +2372,8 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,curhoney2096@yahoo.com,yahoo,email2.php,Dropbox,headband.c0m.li,Dropbox2018.zip,,ce027d4f1393a2f22105ff073b16c1ca,https://headband.c0m.li/cox/Dropbox2018.zip
 12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,fudpages@gmail.com,gmail,script.php,MsExcel,www.cheaporganicgoods.com,exel-2020.zip,,bf937bab7b766b5f61354389c0cf3d09,http://www.cheaporganicgoods.com/EEEEEXX1/exel-2020.zip
 12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,spamalert32@gmail.com,gmail,verification.php,,headband.c0m.li,GD.zip,,f04213f483858d4e4b81d104a4c47e8d,https://headband.c0m.li/gfile/GD.zip
-12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,ethanroy2018@gmail.com,gmail,3d.php,Microsoft,trixewy.ga,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://trixewy.ga/hot/Hotmail-outlook-2018.zip
-12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,ethanroy2018@gmail.com,gmail,3d.php,Microsoft,trixewy.ga,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://trixewy.ga/live/Hotmail-outlook-2018.zip
+12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,ethanroy2018@gmail.com,gmail,3d.php,Hotmail,trixewy.ga,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://trixewy.ga/hot/Hotmail-outlook-2018.zip
+12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,ethanroy2018@gmail.com,gmail,3d.php,Hotmail,trixewy.ga,Hotmail-outlook-2018.zip,,841833d1dd64664f78250500704597b8,http://trixewy.ga/live/Hotmail-outlook-2018.zip
 12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,money47.vbv@gmail.com,gmail,Email.php,,hhms.in,inc.zip,,1213d7e6641fe6b5e1c61845b4c4de38,http://hhms.in/inc.zip
 12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,tatafo1700@gmail.com,gmail,email.php,,christyzspeaks.com,load.zip,,e43f81493c51cb9eb38ecfb2d42c99ec,http://christyzspeaks.com/da/load.zip
 12/9/2018,https://twitter.com/neonprimetime/status/1071974355725418496,toolzxxx01@gmail.com,gmail,popup.php,,cwausnew.co.uk,Mic2018.zip,,3e45ca52518b7eb93b88660e929e3a9c,https://cwausnew.co.uk/Mic2018.zip
@@ -2428,7 +2418,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/9/2018,https://twitter.com/n0p1shing/status/1071935133526228992,cnn.chem@gmail.com,gmail,,BOA,centosports.iconiccode.com,,,,
 12/9/2018,https://twitter.com/Techhelplistcom/status/1071988743421259776,ritagomez090@gmail.com,gmail,jeff.php,DropBox,pepper.uw.to,dropbox (2).zip,,c0eb3a5910d723f1c8a0411d5d1f63e9  dropbox (2).zip,http://pepper.uw.to/cpcpcp/dropbox%20(2).zip
 12/9/2018,https://twitter.com/Techhelplistcom/status/1071988743421259776,gmoneyfullz@gmail.com,gmail,jeff.php,DropBox,pepper.uw.to,dropbox (2).zip,,c0eb3a5910d723f1c8a0411d5d1f63e9  dropbox (2).zip,http://pepper.uw.to/cpcpcp/dropbox%20(2).zip
-12/9/2018,https://twitter.com/Techhelplistcom/status/1071988743421259776,fizomina600@gmail.com,gmail,authenticate.php,Microsoft,majors.xi.to,hotmail.zip,,0f52fcfaafe04f973daa2d6763d4f44b  hotmail.zip,http://majors.xi.to/trinity/hotmail.zip
+12/9/2018,https://twitter.com/Techhelplistcom/status/1071988743421259776,fizomina600@gmail.com,gmail,authenticate.php,Hotmail,majors.xi.to,hotmail.zip,,0f52fcfaafe04f973daa2d6763d4f44b  hotmail.zip,http://majors.xi.to/trinity/hotmail.zip
 12/9/2018,https://twitter.com/Techhelplistcom/status/1071988743421259776,sjsteve55@gmail.com,gmail,hello.php,,curtains.xi.to,zld.zip,Created BY HACKERMIND in 2016 (skype:david.sunday3),786727eac657bf64662820842146540f  zld.zip,http://curtains.xi.to/zld.zip
 12/9/2018,https://twitter.com/Techhelplistcom/status/1071988743421259776,milarepa8@outlook.com,outlook,hello.php,,curtains.xi.to,zld.zip,Created BY HACKERMIND in 2016 (skype:david.sunday3),786727eac657bf64662820842146540f  zld.zip,http://curtains.xi.to/zld.zip
 12/10/2018,https://twitter.com/ANeilan/status/1071986383970099200,Result.buatmakan007@gmail.com,gmail,,Apple,appleid.apple.com.verification-activity.online,,,,
@@ -2470,15 +2460,15 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,anna.raegent@gmail.com,gmail,next.php,MsExcel,modeling.aa.am,Excel.zip,,fc3260a3e3a71c54678bbe06513a6bf0,http://modeling.aa.am/Excel.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,anny.duweivices@gmail.com,gmail,next.php,,modeling.aa.am,exceling.zip,,a788f486c5f700367c6f2155d50554c7,http://modeling.aa.am/exceling.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,rpadila.71@hotmail.com,hotmail,processor.php,,largely.c0m.li,foldermanager.zip,,5687a96566c01493d611b627442ae9f9,http://largely.c0m.li/foldermanager.zip
-12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,fizomina600@gmail.com,gmail,login.php,Microsoft,school.nl.am,hotmail.zip,,cc7c170247318589e1b2baf4d602c2d9,http://school.nl.am/hfddeeeyiooo/hotmail.zip
-12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,gerarderica1@gmail.com,gmail,login.php,Microsoft,taught.mm.am,Hotmailbz.zip,,501fdb98689c530779f789b8752734f7,http://taught.mm.am/Hotmailbz.zip
+12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,fizomina600@gmail.com,gmail,login.php,Hotmail,school.nl.am,hotmail.zip,,cc7c170247318589e1b2baf4d602c2d9,http://school.nl.am/hfddeeeyiooo/hotmail.zip
+12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,gerarderica1@gmail.com,gmail,login.php,Hotmail,taught.mm.am,Hotmailbz.zip,,501fdb98689c530779f789b8752734f7,http://taught.mm.am/Hotmailbz.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,Kumafund689@gmail.com,gmail,mm.php,,potential.aa.am,kuma.zip,,ae396713640e8f9defc41ff503fc3874,http://potential.aa.am/kuma.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,anny.duweivices@gmail.com,gmail,next.php,Office365,modeling.aa.am,office365.zip,,7952158d58cbd54213113e1186b6b448,http://modeling.aa.am/office365.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,brooksdean75@gmail.com,gmail,office.php,OneDrive,greatness.c0m.li,one%20drive%20(1).zip,,04bd2e4a57953b21558eaf949cc160e3,http://greatness.c0m.li/swiss/one%20drive%20(1).zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,joak278@gmail.com,gmail,office.php,OneDrive,survive.mm.am,onedri%20(1).zip,,d9c6eb710a860607d32d3b7b9a39d98e,http://survive.mm.am/drii/onedri%20(1).zip
-12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,fashionkaon@inbox.lt,inbox,office.php,OneDrive,survive.mm.am,onedri%20(1).zip,,d9c6eb710a860607d32d3b7b9a39d98e,http://survive.mm.am/drii/onedri%20(1).zip
+12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,fashionkaon@inbox.lt,inbox.lt,office.php,OneDrive,survive.mm.am,onedri%20(1).zip,,d9c6eb710a860607d32d3b7b9a39d98e,http://survive.mm.am/drii/onedri%20(1).zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,judithmiller841@gmail.com,gmail,AA1.php,OneDrive,family.mm.am,onedrive%20(1).zip,,8adfda8c6fb665bd19d1b4be8479047a,http://family.mm.am/onedrive%20(1).zip
-12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,garyclearspringinc@gmail.com,gmail,login.php,Microsoft,nurture.c0m.li,outlooknew18.zip,,c2d873571ee4aff73fb5b807cde2c5c9,http://nurture.c0m.li/new/outlooknew18.zip
+12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,garyclearspringinc@gmail.com,gmail,login.php,Outlook,nurture.c0m.li,outlooknew18.zip,,c2d873571ee4aff73fb5b807cde2c5c9,http://nurture.c0m.li/new/outlooknew18.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,anny.duweivices@gmail.com,gmail,next.php,WeTransfer,modeling.aa.am,wetransfers.zip,,e2cc4ed6b2a4fcbaaffdebc9bd11a5a0,http://modeling.aa.am/wetransfers.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072323449014677504,hufyrji12345@gmail.com,gmail,mm.php,,potential.aa.am,wp-fft.zip,,d5fe6ea015eadac8ba2abdeac15cb956,http://potential.aa.am/wp-fft.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,darthlordd72@gmail.com,gmail,email.php,,eyeintheskypictures.com,ac.zip,,b0352d5a1d00f680003a52586dd32a72,http://eyeintheskypictures.com/font/ac.zip
@@ -2488,7 +2478,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,alex.triggs07@yahoo.com,yahoo,form.php,Comcast,nxcsanacne.uk,comcast.zip,,665fe93d72998e3f836f050eb7f3fe33,http://nxcsanacne.uk/vbkjm/comcast.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,kassimusprimus@gmail.com,gmail,CONTROLS.php,,hectoeisa.uk,dieseltax789.zip,,b916c39c49d99ca0ab3ec152752289e2,http://hectoeisa.uk/sd/dieseltax789.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,getgwap456@gmail.com,gmail,enteryouremailhere.php,,hectoeisa.uk,dieseltax789.zip,,b916c39c49d99ca0ab3ec152752289e2,http://hectoeisa.uk/sd/dieseltax789.zip
-12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,phone.juniorjk5044@gmail.com,gmail,send.php,Microsoft,fashionense.uk,hotmaill.zip,,5dc1872b3e825e5617b75efc38ed4a17,http://fashionense.uk/cxc/hotmaill.zip
+12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,phone.juniorjk5044@gmail.com,gmail,send.php,Hotmail,fashionense.uk,hotmaill.zip,,5dc1872b3e825e5617b75efc38ed4a17,http://fashionense.uk/cxc/hotmaill.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,toolzxxx01@gmail.com,gmail,popup.php,,cwausnew.co.uk,Mic2018.zip,,3e45ca52518b7eb93b88660e929e3a9c,http://cwausnew.co.uk/Mic2018.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,courtneycaldera57@gmail.com,gmail,mailer.php,Ourtime,cwausnew.co.uk,Ourtime.zip,,060d836d103e2323cdb14681bc594bcd,http://cwausnew.co.uk/Ourtime.zip
 12/10/2018,https://twitter.com/Techhelplistcom/status/1072335322791456777,esure4me@zoho.com,zoho,hello.php,,hrectiosne.uk,PROPDF.zip,,16cfeefe14927a57911a43d7638a236c,http://hrectiosne.uk/httml/PROPDF.zip
@@ -2505,7 +2495,7 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/10/2018,@TheQuickRedFoxx,anna.raegent@gmail.com,gmail,,MsExcel,modeling.aa.am,Excel.zip,,9b94cdfcdf97fd9b6c55d9c0ff8e6cc2a63dcf99f6820b95923b19316ad57863,http://modeling.aa.am/Excel.zip
 12/10/2018,@TheQuickRedFoxx,anny.duweivices@gmail.com,gmail,,Office365,modeling.aa.am,office365.zip,,8cf46a65cd50f8cc95c7b126d977336a8bae4ff58de5ad17be8f3ab9d226c9a4,http://modeling.aa.am/office365.zip
 12/10/2018,@TheQuickRedFoxx,anny.duweivices@gmail.com,gmail,,WeTransfer,modeling.aa.am,wetransfers.zip,,84519ab32d4abf043245203dcbefe35bcbbd32cc9a707e3bef3065c9909b427c,http://modeling.aa.am/wetransfers.zip
-12/10/2018,@TheQuickRedFoxx,garyclearspringinc@gmail.com,gmail,,Microsoft,nurture.c0m.li,outlooknew18.zip,,016914dac0adbd4b502ef43f14cdb586ad8846f6cb7be3df0e96c52ca78ddd16,http://nurture.c0m.li/new/outlooknew18.zip
+12/10/2018,@TheQuickRedFoxx,garyclearspringinc@gmail.com,gmail,,Outlook,nurture.c0m.li,outlooknew18.zip,,016914dac0adbd4b502ef43f14cdb586ad8846f6cb7be3df0e96c52ca78ddd16,http://nurture.c0m.li/new/outlooknew18.zip
 12/10/2018,@TheQuickRedFoxx,cubafund2018@gmail.com,gmail,,,potential.aa.am,cub.zip,,c4992fad5d2458627754f637d2c43210d782dcbbede44df6e2379e954b2f7c19,http://potential.aa.am/cub.zip
 12/10/2018,@TheQuickRedFoxx,Kumafund689@gmail.com,gmail,,,potential.aa.am,kuma.zip,,b824321e374a1ff2a4eb3b90e2f6f0c55fa6a8e6946b72a04f439faea930aca8,http://potential.aa.am/kuma.zip
 12/10/2018,@TheQuickRedFoxx,hufyrji12345@gmail.com,gmail,,,potential.aa.am,wp-fft.zip,,aa1be0a859c6b36ddbab21c64c37d1536c90a5ddaa6854806e7b79682399d361,http://potential.aa.am/wp-fft.zip
@@ -2513,13 +2503,13 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/10/2018,@TheQuickRedFoxx,kunmibright100@gmail.com,gmail,,,reality.mm.am,00.zip,,253e5001a1a8b82e5985e50f153d023cbda9979a113be6b73f77efa4237a5a0c,http://reality.mm.am/http/00.zip
 12/10/2018,@TheQuickRedFoxx,kunmibright100@gmail.com,gmail,,,reality.mm.am,00.zip,,253e5001a1a8b82e5985e50f153d023cbda9979a113be6b73f77efa4237a5a0c,http://reality.mm.am/https/00.zip
 12/10/2018,@TheQuickRedFoxx,kunmibright100@gmail.com,gmail,,,reality.mm.am,00.zip,,253e5001a1a8b82e5985e50f153d023cbda9979a113be6b73f77efa4237a5a0c,http://reality.mm.am/sign/00.zip
-12/10/2018,@TheQuickRedFoxx,fizomina600@gmail.com,gmail,,Microsoft,school.nl.am,hotmail.zip,,c9addbb79db802ac57ed1a44aa97be29abe6c96c100b2caf2e7cb33fa7f80d9c,http://school.nl.am/hfddeeeyiooo/hotmail.zip
+12/10/2018,@TheQuickRedFoxx,fizomina600@gmail.com,gmail,,Hotmail,school.nl.am,hotmail.zip,,c9addbb79db802ac57ed1a44aa97be29abe6c96c100b2caf2e7cb33fa7f80d9c,http://school.nl.am/hfddeeeyiooo/hotmail.zip
 12/10/2018,@TheQuickRedFoxx,fashionkaon@inbox.lt,inbox.lt,,OneDrive,survive.mm.am,onedri%20(1).zip,,99f1a5589003a5930d0b9b025239f04e2e893c041617e0d05b00629ef2473e2c,http://survive.mm.am/drii/onedri%20(1).zip
-12/10/2018,@TheQuickRedFoxx,gerarderica1@gmail.com,gmail,,Microsoft,taught.mm.am,Hotmailbz.zip,,45e3d36f7503b982089ba7919e1787a5697a4fc7f438eda3b5b37b0e621c8bea,http://taught.mm.am/Hotmailbz.zip
+12/10/2018,@TheQuickRedFoxx,gerarderica1@gmail.com,gmail,,Hotmail,taught.mm.am,Hotmailbz.zip,,45e3d36f7503b982089ba7919e1787a5697a4fc7f438eda3b5b37b0e621c8bea,http://taught.mm.am/Hotmailbz.zip
 12/10/2018,https://twitter.com/tac0sec/status/1072334149346910208,yazidchadi2017@gmail.com,gmail,,Paypal,update-your-verification.g-otaku.xyz,,,,
 12/10/2018,https://twitter.com/MaelSecurity/status/1072387979015086080,stevealucard1@gmail.com,gmail,,Paypal,www.secure-authorization-login-xxxx9402.byegill.com,SINFOX.zip,,,http://www.secure-authorization-login-xxxx9402.byegill.com/SINFOX.zip
 12/10/2018,https://twitter.com/MaelSecurity/status/1072407379029975040,spamer007@hotmail.com,hotmail,,Paypal,www.update.mysupporthub.com,secure.zip,,,http://www.update.mysupporthub.com/secure.zip
-12/11/2018,https://twitter.com/Jouliok/status/1072426603370696711,ethanroy2018@gmail.com,gmail,,Microsoft,trixewy.ga,Hotmail-outlook-2018.zip,,,
+12/11/2018,https://twitter.com/Jouliok/status/1072426603370696711,ethanroy2018@gmail.com,gmail,,Hotmail,trixewy.ga,Hotmail-outlook-2018.zip,,,
 12/11/2018,https://twitter.com/Jouliok/status/1072426603370696711,robbertmccall213@gmail.com,gmail,,Microsoft,trixewy.ga,NETEASE163.zip,,,
 12/11/2018,https://twitter.com/Jouliok/status/1072444251299024896,kloghacks@gmail.com,gmail,,DropBox,dropboxs.tellmeeverything.com.au,ise.zip,,,
 12/11/2018,https://twitter.com/dave_daves/status/1072445506595512321,persijajuara@yandex.com,yandex,,Apple,verification.security.appleid.apple.com.bonusnyabangpia.com,,,,
@@ -2597,9 +2587,9 @@ DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDoma
 12/11/2018,https://twitter.com/ANeilan/status/1072702344528363520,rfanjengmemek@yandex.com,yandex,,Apple,appleverify-kontolanjenggrf.alertsaccounts.com,,,,
 12/11/2018,https://twitter.com/Jouliok/status/1072766551479209984,madafakah.result@gmail.com,gmail,,Apple,manage-appleid-apple-com.summarynewsalert26.me,SBH-Apple.zip,,,
 12/12/2018,https://twitter.com/ps66uk/status/1072793554928439298,wilson.martyn0@gmail.com,gmail,,Docusign,www.ddudko.ru,WilsonInc.zip,,,http://www.ddudko.ru/WilsonInc.zip
-12/12/2018,https://twitter.com/ActorExpose/status/1072812310580916224,cleanestresults@gmail.com,,,limitservice2.me,,,,,
-12/12/2018,https://twitter.com/ActorExpose/status/1072812310580916224,lionhearth044@gmail.com,,,limitservice2.me,,,,,
-12/12/2018,https://twitter.com/ActorExpose/status/1072812310580916224,ybrichy82@gmail.com,,,limitservice2.me,,,,,
+12/12/2018,https://twitter.com/ActorExpose/status/1072812310580916224,cleanestresults@gmail.com,,,,limitservice2.me,,,,
+12/12/2018,https://twitter.com/ActorExpose/status/1072812310580916224,lionhearth044@gmail.com,,,,limitservice2.me,,,,
+12/12/2018,https://twitter.com/ActorExpose/status/1072812310580916224,ybrichy82@gmail.com,,,,limitservice2.me,,,,
 12/12/2018,https://twitter.com/ActorExpose/status/1072813288117993473,tiptop.geenet.co.za@gmail.com,gmail,,,jayrinnie.000webhostapp.com,,,,
 12/12/2018,https://twitter.com/dave_daves/status/1072870592867577857,jualanresult16@yandex.com,yandex,,,appstore-fraud-payment-activity.business,,,,
 12/12/2018,https://twitter.com/illegalFawn/status/1072882033146429441,artesofficials@gmail.com,gmail,,Paypal,verifìed.com,,,,
