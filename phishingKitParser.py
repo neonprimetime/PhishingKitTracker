@@ -121,12 +121,15 @@ if(proceed == 1):
       if(settings.debug):
        print("searching file '{0}'".format(fpath))
       with open(fpath) as f:
-       line = f.read()
-       match = re.search(r'(?i)(created by|hacked by|coded by|edited by|signed by|made by)([^\r\n\=\+\"\'\,]+)\s+([\,\=\+\"\']|\-\-)', line)
-       if(match is not None):
-        threatActor = match.group(1) + match.group(2)
-        foundActor = 1
-        break
+       try:
+        line = f.read()
+        match = re.search(r'(?i)(created by|hacked by|coded by|edited by|signed by|made by)([^\r\n\=\+\"\'\,]+)\s+([\,\=\+\"\']|\-\-)', line)
+        if(match is not None):
+         threatActor = match.group(1) + match.group(2)
+         foundActor = 1
+         break
+       except:
+        print("failed to open '{0}'".format(fpath))
   if(settings.debug):
    print("finished search for Threat Actor Signatures")
   if(settings.debug):
@@ -142,24 +145,27 @@ if(proceed == 1):
      if(settings.debug):
       print("searching file '{0}'".format(fpath))
      with open(fpath) as f:
-      line = f.read()
-      matches = re.findall(r'[\w\.-]+@[\w\.-]+', line)
-      for match in matches:
-       if(settings.debug):
-        print("found threat actor email '{0}'".format(match))
-       entry = PhishingKitTrackerEntry()
-       if(settings.reference is not None):
-        entry.reference = settings.reference
-       entry.email = match
-       entry.emailProvider = match.split('@')[1].split('.')[0]
-       entry.mailer = mailer
-       entry.domain = domain
-       entry.zip = filename
-       entry.threatActor = threatActor
-       entry.md5 = md5
-       if(isUrls == 1):
-        entry.url = item
-       entries.append(entry)
+      try:
+       line = f.read()
+       matches = re.findall(r'[\w\.-]+@[\w\.-]+', line)
+       for match in matches:
+        if(settings.debug):
+         print("found threat actor email '{0}'".format(match))
+        entry = PhishingKitTrackerEntry()
+        if(settings.reference is not None):
+         entry.reference = settings.reference
+        entry.email = match
+        entry.emailProvider = match.split('@')[1].split('.')[0]
+        entry.mailer = mailer
+        entry.domain = domain
+        entry.zip = filename
+        entry.threatActor = threatActor
+        entry.md5 = md5
+        if(isUrls == 1):
+         entry.url = item
+        entries.append(entry)
+      except:
+       print("failed to open '{0}'".format(fpath))
   if(settings.debug):
    print("deleting zip '{0}'".format(filename))
   if(filename is not None and filename != "" and ".zip" in filename):
