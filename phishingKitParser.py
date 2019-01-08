@@ -103,11 +103,11 @@ if(proceed == 1):
    md5 = hashlib.md5(file.read()).hexdigest()
   if(settings.debug):
    print("unzipping file '{0}' to '{1}'".format(filename,extractedfoldername))
-  with zipfile.ZipFile(filename,'r') as zip_ref:
-   try:
+  try:
+   with zipfile.ZipFile(filename,'r') as zip_ref:
     zip_ref.extractall(extractedfoldername)
-   except:
-    print("failed to unzip '{0}'".format(filename))
+  except:
+   print("failed to unzip '{0}'".format(filename))
   if(settings.debug):
    print("file unzipped to '{0}'".format(extractedfoldername))
   if(settings.debug):
