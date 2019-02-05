@@ -113,6 +113,7 @@ if(proceed == 1):
   if(settings.debug):
    print("starting search for Threat Actor Signatures")
   foundActor = 0
+  threatActor = ""
   for dname, dirs, files in os.walk(extractedfoldername):
    if(foundActor == 0):
     for fname in files:
