@@ -95,12 +95,18 @@ if(proceed == 1):
    except:
     print("failed to download '{0}'".format(item))
     continue
-  extractedfoldername = str(Path(filename).with_suffix(""))
+  try:
+   extractedfoldername = str(Path(filename).with_suffix(""))
+  except:
+   print("failed to build folder name '{0}'",format(item))
   if(settings.debug):
    print("getting file hash for '{0}'".format(filename))
-  file = open(filename, 'rb')
-  with file:
-   md5 = hashlib.md5(file.read()).hexdigest()
+  try:
+   file = open(filename, 'rb')
+   with file:
+    md5 = hashlib.md5(file.read()).hexdigest()
+  except:
+   print("unable to open file '{0}'".format(filename))
   if(settings.debug):
    print("unzipping file '{0}' to '{1}'".format(filename,extractedfoldername))
   try:
