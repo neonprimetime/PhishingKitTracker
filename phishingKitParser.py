@@ -14,7 +14,7 @@ import shutil
 
 #definitions
 class PhishingKitTrackerEntry:
- date = date.today().strftime('%m/%d/%Y')
+ date = date.today().strftime('%-m/%-d/%Y')
  reference = ""
  email = ""
  emailProvider = ""
