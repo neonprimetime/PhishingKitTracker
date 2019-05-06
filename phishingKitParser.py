@@ -11,8 +11,13 @@ import re
 from datetime import date
 import hashlib
 import shutil
+import sys
 
 #definitions
+emailregex = r'[\w\.-]+@[\w\.-]+'
+attributionregex = r'(?i)(created by|hacked by|coded by|edited by|signed by|made by)([^\r\n\=\+\"\'\,]+)\s+([\,\=\+\"\']|\-\-)'
+emailkeepregex = r'(?i)(gmail|yahoo|zoho|yandex|aol|mail\.ru|outlook|hotmail|protonmail|live\.com|mail\.com)'
+
 class PhishingKitTrackerEntry:
  date = date.today().strftime('%-m/%-d/%Y')
  reference = ""
@@ -133,7 +138,7 @@ if(proceed == 1):
       with open(fpath) as f:
        try:
         line = f.read()
-        match = re.search(r'(?i)(created by|hacked by|coded by|edited by|signed by|made by)([^\r\n\=\+\"\'\,]+)\s+([\,\=\+\"\']|\-\-)', line)
+        match = re.search(attributionregex, line)
         if(match is not None):
          threatActor = match.group(1) + match.group(2)
          foundActor = 1
@@ -157,25 +162,30 @@ if(proceed == 1):
      with open(fpath) as f:
       try:
        line = f.read()
-       matches = re.findall(r'[\w\.-]+@[\w\.-]+', line)
+       matches = re.findall(emailregex, line)
        for match in matches:
-        if(settings.debug):
-         print("found threat actor email '{0}'".format(match))
-        entry = PhishingKitTrackerEntry()
-        if(settings.reference is not None):
-         entry.reference = settings.reference
-        entry.email = match
-        entry.emailProvider = match.split('@')[1].split('.')[0]
-        entry.mailer = mailer
-        entry.domain = domain
-        entry.zip = filename
-        entry.threatActor = threatActor
-        entry.md5 = md5
-        if(isUrls == 1):
-         entry.url = item
-        entries.append(entry)
+        searchemailkeep = re.search(emailkeepregex,match)
+        if not searchemailkeep is None:
+         if(settings.debug):
+          print("found threat actor email '{0}'".format(match))
+         entry = PhishingKitTrackerEntry()
+         if(settings.reference is not None):
+          entry.reference = settings.reference
+         entry.email = match
+         entry.emailProvider = match.split('@')[1].split('.')[0]
+         entry.mailer = mailer
+         entry.domain = domain
+         entry.zip = filename
+         entry.threatActor = threatActor
+         entry.md5 = md5
+         if(isUrls == 1):
+          entry.url = item
+         entries.append(entry)
+        else:
+         print("skipping {0}".format(match))
       except:
        print("failed to open '{0}'".format(fpath))
+       print(sys.exc_info()[0])
   if(settings.debug):
    print("deleting zip '{0}'".format(filename))
   if(filename is not None and filename != "" and ".zip" in filename):
