@@ -7,10 +7,10 @@ arguments.add_argument("-f", "--file", type=str, required=True, help="Path to fi
 arguments.add_argument("-c", "--comments", action="store_true", required=False, help="Output individual twitter replies too")
 settings = arguments.parse_args()
 
-emailregex = r'(\s|\"|\,|\,\s+)([^\@\s\"]+\@[^\s\"]+)(\[\.\].{2,3}|\.[^\]].{1,2})(\"|\s|\,)'
-domainregex = r'(hxxp|http|https|hxxps)\:\/\/([^\/\s]+)(\/|\s)'
-emaildomainregex = r'[\@]([^\.]+)\.'
-emailkeepregex = r'(gmail|yahoo|zoho|yandex|aol|mail\.ru|outlook|hotmail|protonmail|live\.com|mail\.com)'
+emailregex = r'(?i)(\s|\"|\,|\,\s+)([^\@\s\"]+\@[^\s\"]+)(\[\.\].{2,3}|\.[^\]].{1,2})(\"|\s|\,)'
+domainregex = r'(?i)(hxxp|http|https|hxxps)\:\/\/([^\/\s]+)(\/|\s)'
+emaildomainregex = r'(?i)[\@]([^\.]+)\.'
+emailkeepregex = r'(?i)(gmail|yahoo|zoho|yandex|aol|mail\.ru|outlook|hotmail|protonmail|live\.com|mail\.com)'
 
 splitchoice1 = "@neonprimetime"
 splitchoice2 = "Phisher"
