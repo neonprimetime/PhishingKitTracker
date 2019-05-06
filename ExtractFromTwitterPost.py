@@ -10,6 +10,7 @@ settings = arguments.parse_args()
 emailregex = r'(\s|\"|\,|\,\s+)([^\@\s\"]+\@[^\s\"]+)(\[\.\].{2,3}|\.[^\]].{1,2})(\"|\s|\,)'
 domainregex = r'(hxxp|http|https|hxxps)\:\/\/([^\/\s]+)(\/|\s)'
 emaildomainregex = r'[\@]([^\.]+)\.'
+emailkeepregex = r'(gmail|yahoo|zoho|yandex|aol|mail\.ru|outlook|hotmail|protonmail|live\.com|mail\.com)'
 
 splitchoice1 = "@neonprimetime"
 splitchoice2 = "Phisher"
@@ -57,9 +58,11 @@ for twitterpost in twitterposts:
   if not searchemaildomain is None:
    emaildomain = searchemaildomain[1]
   if email:
-   print("{0},,{1},{2},,,{3},,,,".format(date,email,emaildomain,domain))
-  if(settings.comments):
-   print("\r\nAdded #threatactoremail to PhishingKitTracker\r\n\r\n{0}".format(email.replace("@"," @ ").replace(".", "[.]")))
+   searchemailkeep = re.search(emailkeepregex,email)
+   if not searchemailkeep is None:
+    print("{0},,{1},{2},,,{3},,,,".format(date,email,emaildomain,domain))
+    if(settings.comments):
+     print("\r\nAdded #threatactoremail to PhishingKitTracker\r\n\r\n{0}".format(email.replace("@"," @ ").replace(".", "[.]")))
   emailindex = twitterpost.index(originalemail)
   newstart = emailindex + len(originalemail) - 1
   twitterpost = twitterpost[newstart:]
