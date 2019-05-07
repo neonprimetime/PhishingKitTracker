@@ -53,7 +53,7 @@ for twitterpost in twitterposts:
  searchemail = re.search(emailregex,twitterpost)
  while not searchemail is None:
   originalemail = (searchemail[2] + searchemail[3])
-  email = originalemail.replace("[.]",".")
+  email = originalemail.replace("[.]",".").replace("'","")
   searchemaildomain = re.search(emaildomainregex,email)
   if not searchemaildomain is None:
    emaildomain = searchemaildomain[1]
