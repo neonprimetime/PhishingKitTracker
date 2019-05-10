@@ -62,7 +62,7 @@ for twitterpost in twitterposts:
    if not searchemailkeep is None:
     print("{0},,{1},{2},,,{3},,,,".format(date,email,emaildomain,domain))
     if(settings.comments):
-     print("\r\nAdded #threatactoremail to PhishingKitTracker\r\n\r\n{0}".format(email.replace("@"," @ ").replace(".", "[.]")))
+     print("\r\nAdded #threatactoremail to #PhishingKitTracker\r\n\r\n{0}".format(email.replace("@"," @ ").replace(".", "[.]")))
   emailindex = twitterpost.index(originalemail)
   newstart = emailindex + len(originalemail) - 1
   twitterpost = twitterpost[newstart:]
