@@ -1,5 +1,5 @@
 Tracking Threat Actor Emails in Phishing Kits
-CC @neonprimetime on twitter if you find a #threatactoremail in #phishingkit
+CC @PhishKitTracker on twitter if you find a #threatactoremail in #phishingkit
 DM @neonprimetime if you work in an email provider's abuse department (gmail, yahoo, yandex, etc.) and can help streamline abuse reports
 
 Projects that utilize PhishingKitTracker
@@ -10,3 +10,5 @@ NOTE: PhishingKitTracker used to be one large .CSV file but it got too big to ma
     1.) wget https://github.com/neonprimetime/PhishingKitTracker/archive/master.zip
     2.) unzip master.zip 
     3.) cat PhishingKitTracker-master/*_PhishingKitTracker.csv > PhishingKitTracker.csv
+
+This repo is maintained by @neonprimetime on twitter
