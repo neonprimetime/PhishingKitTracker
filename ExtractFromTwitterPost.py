@@ -12,7 +12,7 @@ domainregex = r'(?i)(hxxp|http|https|hxxps)\:\/\/([^\/\s]+)(\/|\s)'
 emaildomainregex = r'(?i)[\@]([^\.]+)\.'
 emailkeepregex = r'(?i)(gmail|yahoo|zoho|yandex|aol|mail\.ru|outlook|hotmail|protonmail|live\.com|mail\.com)'
 
-splitchoice1 = "@neonprimetime"
+splitchoice1 = "@PhishKitTracker"
 splitchoice2 = "Phisher"
 
 filename = settings.file
