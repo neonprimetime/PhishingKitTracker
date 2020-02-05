@@ -3,10 +3,17 @@ from urllib.request import urlretrieve
 import re
 import sys
 import os
+quietmode = 1
+printstatus = 1
+searchcount = 0
 filepath = 'urls.txt'
 with open(filepath) as fp:
  theurl = fp.readline()
  while theurl:
+  searchcount = searchcount + 1
+  if printstatus == 1:
+   if searchcount % 10 == 0:
+    print("STATUS: %s" % str(searchcount))
   if(not theurl.startswith('http')):
    if(":443" in theurl):
     theurl = 'https://' + theurl.strip()
@@ -71,6 +78,7 @@ with open(filepath) as fp:
     if "no host given" in str(e):
      stopnow = 1
     else:
-     print("-FAILED-," + str(e) + "," + theurl)
+     if quietmode == 0:
+      print("-FAILED-," + str(e) + "," + theurl)
      theurl = re.sub(r'\/[^\/]*$', '', theurl)
   theurl = fp.readline()
