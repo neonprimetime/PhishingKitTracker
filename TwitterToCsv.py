@@ -1,17 +1,18 @@
 # coding: utf8
 import re
+import datetime
 filename = "twitter.txt"
 debug = 0
 rawtwitterposts = ""
 count = 0
 urlIgnoreList = ["urlscan", "urlquery", "pastebin", "app.any.run"]
-urlSaveList = ["virustotal", "github"]
+urlSaveList = ["virustotal", "github", "anonfile.com"]
 emailIgnoreList = []
 with open(filename, 'r') as file:
  rawtwitterposts = file.read()
  rawtwitterposts = re.sub(r'([@][^\n]+)\n.*·', r'·\1', rawtwitterposts).replace("@PhishKitTracker", "").replace("@Spam404Online","").replace("@google","").replace("#phishingkit","").replace("#phishing","").replace("Osumi, Yusuke", "").replace("International Phish Actors Expose!", "").replace("Beeker Five one", "").replace("phisher;", "").replace("sample;", "")
  rawtwitterposts = rawtwitterposts.replace("hxxp", "http").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace(" [@] ", "@").replace(" . ", ".").replace(". ", ".").replace("\.", ".")
- rawtwitterposts = rawtwitterposts.replace("[@]","@").replace(" @ ", "@").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace("<","").replace(">","").replace(".com,", ".com , ").replace(",com", ".com").replace("^","").replace("(","").replace(")","")
+ rawtwitterposts = rawtwitterposts.replace("[@]","@").replace(" @ ", "@").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace("<","").replace(">","").replace(".com,", ".com , ").replace(",com", ".com").replace("^","").replace("(","").replace(")","").replace("\"", "").replace("'","").replace("{at}", "@")
  rawposts = re.split('·', rawtwitterposts)
  # START: RAW POST ANALYSIS
  for rawpost in rawposts:
@@ -38,7 +39,7 @@ with open(filename, 'r') as file:
    if foundDate == 0:
     if line.startswith("Jan ") or line.startswith("Feb ") or line.startswith("March ") or line.startswith("April ") or line.startswith("May ") or line.startswith("Jun ") or line.startswith("Jul ") or line.startswith("Aug ") or line.startswith("Sep ") or line.startswith("Oct ") or line.startswith("Nov ") or line.startswith("Dec "):
      parts = re.split(' |, |\.', line)
-     if parts and len(parts) == 3:
+     if parts and ( len(parts) == 3 or len(parts) == 2):
       month = ""
       if parts[0] == "Jan":
        month = "1"
@@ -65,7 +66,10 @@ with open(filename, 'r') as file:
       if parts[0] == "Dec":
        month = "12"
       day = parts[1]
-      date = ("%s/%s/%s" % (month, day, parts[2]))
+      if len(parts) == 2:
+       date = ("%s/%s/%s" % (month, day, datetime.datetime.now().year))
+      else:
+       date = ("%s/%s/%s" % (month, day, parts[2]))
       foundDate = 1
    urlSearch = re.search("((http|https)\:\/\/[^\s]+)", line)
    if urlSearch:
