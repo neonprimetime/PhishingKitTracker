@@ -11,7 +11,7 @@ with open(filename, 'r') as file:
  rawtwitterposts = file.read()
  rawtwitterposts = re.sub(r'([@][^\n]+)\n.*·', r'·\1', rawtwitterposts).replace("@PhishKitTracker", "").replace("@Spam404Online","").replace("@google","").replace("#phishingkit","").replace("#phishing","").replace("Osumi, Yusuke", "").replace("International Phish Actors Expose!", "").replace("Beeker Five one", "").replace("phisher;", "").replace("sample;", "")
  rawtwitterposts = rawtwitterposts.replace("hxxp", "http").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace(" [@] ", "@").replace(" . ", ".").replace(". ", ".").replace("\.", ".")
- rawtwitterposts = rawtwitterposts.replace("[@]","@").replace(" @ ", "@").replace("[.]", ".").replace("[.", ".").replace(".]",".")
+ rawtwitterposts = rawtwitterposts.replace("[@]","@").replace(" @ ", "@").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace("<","").replace(">","").replace(".com,", ".com , ").replace(",com", ".com")
  rawposts = re.split('·', rawtwitterposts)
  # START: RAW POST ANALYSIS
  for rawpost in rawposts:
@@ -88,7 +88,7 @@ with open(filename, 'r') as file:
       foundUrl = 1
    emailline = line
    while len(emailline) > 0:
-    emailSearch = re.search("([^\s]+([@]|\s[@]\s)[^\s]+)", emailline)
+    emailSearch = re.search("([^\s\,\;]+([@]|\s[@]\s)[^\s\,\;]+)", emailline)
     if emailSearch:
      emailToAnalyze = emailSearch.group()
      emailline = emailline[emailline.index(emailToAnalyze) + len(emailToAnalyze):]
@@ -123,6 +123,22 @@ with open(filename, 'r') as file:
      parts2 = parts1[1].split(".")
      if len(parts2) > 1:
       emailtype = parts2[0]
+    kiturl = ""
+    domain = ""
+    if ".zip" in url:
+     kiturl = url
+    else:
+     parts = url.split("/")
+     if len(parts) > 2:
+      domain = parts[2]
+    if len(email) > 7 and len(savedurl) == 0 and len(poster) > 3:
+     savedurl = ("https://twitter.com/%s/" % (poster.replace("@","")))
+    # DateFound,ReferenceLink,ThreatActorEmail,EmailType,KitMailer,Target,PhishingDomain,KitName,ThreatActor,KitHash,KitUrl
+    if(len(email) > 7 or len(savedurl) > 7):
+     print("%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s" % (date,savedurl,email,emailtype,"","",domain,"","","",kiturl))
+   if emailCount == 0 and foundSavedUrl == 1:
+    email = ""
+    emailtype = ""
     kiturl = ""
     domain = ""
     if ".zip" in url:
