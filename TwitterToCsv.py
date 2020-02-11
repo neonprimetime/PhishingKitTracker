@@ -11,7 +11,7 @@ with open(filename, 'r') as file:
  rawtwitterposts = file.read()
  rawtwitterposts = re.sub(r'([@][^\n]+)\n.*·', r'·\1', rawtwitterposts).replace("@PhishKitTracker", "").replace("@Spam404Online","").replace("@google","").replace("#phishingkit","").replace("#phishing","").replace("Osumi, Yusuke", "").replace("International Phish Actors Expose!", "").replace("Beeker Five one", "").replace("phisher;", "").replace("sample;", "")
  rawtwitterposts = rawtwitterposts.replace("hxxp", "http").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace(" [@] ", "@").replace(" . ", ".").replace(". ", ".").replace("\.", ".")
- rawtwitterposts = rawtwitterposts.replace("[@]","@").replace(" @ ", "@").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace("<","").replace(">","").replace(".com,", ".com , ").replace(",com", ".com")
+ rawtwitterposts = rawtwitterposts.replace("[@]","@").replace(" @ ", "@").replace("[.]", ".").replace("[.", ".").replace(".]",".").replace("<","").replace(">","").replace(".com,", ".com , ").replace(",com", ".com").replace("^","").replace("(","").replace(")","")
  rawposts = re.split('·', rawtwitterposts)
  # START: RAW POST ANALYSIS
  for rawpost in rawposts:
@@ -36,7 +36,7 @@ with open(filename, 'r') as file:
      poster = line
      foundPoster = 1
    if foundDate == 0:
-    if line.startswith("Jan ") or line.startswith("Feb ") or line.startswith("March ") or line.startswith("April ") or line.startswith("May ") or line.startswith("Jun ") or line.startswith("July ") or line.startswith("Aug ") or line.startswith("Sep ") or line.startswith("Oct ") or line.startswith("Nov ") or line.startswith("Dec "):
+    if line.startswith("Jan ") or line.startswith("Feb ") or line.startswith("March ") or line.startswith("April ") or line.startswith("May ") or line.startswith("Jun ") or line.startswith("Jul ") or line.startswith("Aug ") or line.startswith("Sep ") or line.startswith("Oct ") or line.startswith("Nov ") or line.startswith("Dec "):
      parts = re.split(' |, |\.', line)
      if parts and len(parts) == 3:
       month = ""
@@ -52,7 +52,7 @@ with open(filename, 'r') as file:
        month = "5"
       if parts[0] == "Jun":
        month = "6"
-      if parts[0] == "July":
+      if parts[0] == "Jul":
        month = "7"
       if parts[0] == "Aug":
        month = "8"
