@@ -2,7 +2,7 @@ import requests
 import os
 filepath = 'urls.txt'
 folders = ["", "log", "logs", "script", "scripts"]
-files = ["logs.txt", "log.txt", "log.html", "logs.html", "error_logs.txt", "error_log.txt", "script.txt", "1.php", "ise.txt", "user.txt", "users.txt", "stored.txt", "fullz.txt", "accounts.txt", "login.txt", "logins.txt", "U1.txt", "results.txt", "resultz.txt"]
+files = ["logs.txt", "log.txt", "log.html", "logs.html", "error_logs.txt", "error_log.txt", "script.txt", "1.php", "ise.txt", "user.txt", "users.txt", "stored.txt", "fullz.txt", "accounts.txt", "login.txt", "logins.txt", "U1.txt", "results.txt", "resultz.txt", "XX1.txt"]
 printfailures = 0
 foundcount = 0
 quietmode = 1
