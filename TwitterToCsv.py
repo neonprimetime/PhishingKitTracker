@@ -127,11 +127,11 @@ for post in posts:
       url = urlToAnalyze
    #find kit name
    if len(kitName) == 0:
-    kitNameSearch = re.search("([^\s]+\.zip)", line)
+    kitNameSearch = re.search("([^\s\/]+\.zip)", line)
     if kitNameSearch:
      kitName = kitNameSearch.group()
     else:
-     kitNameSearch = re.search("([^\s]+\.zip)", url)
+     kitNameSearch = re.search("([^\s\/]+\.zip)", url)
      if kitNameSearch:
       kitName = kitNameSearch.group()
    #find threat actor
