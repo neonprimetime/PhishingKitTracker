@@ -1,3 +1,8 @@
+PROJECT PAUSED 1/11/2022
+I HAVE NOT BEEN ABLE TO GIVE THIS PROJECT THE NECESSARY TIME, THERERFORE I AM PAUSING THIS PROJECT FOR THE TIME BEING.
+THANK YOU FOR ALL YOUR SUPPORT AND CONTINUE HUNTING DOWN THOSE BAD GUYS & THEIR PHISHING KITS!
+-------------------------------
+
 Tracking Threat Actor Emails in Phishing Kits
 CC @PhishKitTracker on twitter if you find a #threatactoremail in #phishingkit
 DM @neonprimetime if you work in an email provider's abuse department (gmail, yahoo, yandex, etc.) and can help streamline abuse reports
